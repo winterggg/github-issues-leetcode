@@ -1,7 +1,7 @@
 import os
 import requests
 import datetime
-import frontmatter # pip install python-frontmatter
+import frontmatter  # pip install python-frontmatter
 import re
 
 # 从环境变量中获取 GitHub Personal Access Token
@@ -18,50 +18,70 @@ headers = {
 }
 
 # 定义 owner 和 repo 名称（可以从环境变量中获取）
-owner = os.environ.get('OWNER') # "winterggg"
-repo = os.environ.get('REPO') # "winterggg/test_actions"
+owner = os.environ.get('OWNER')
+repo = os.environ.get('REPO')
 
 if not owner or not repo:
     raise ValueError('No owner or repo provided')
 
+
+def has_next_page(response):
+    return response.links and 'next' in response.links
+
+
+def handle_issues(base_path, headers, issue):
+    # 如果没有 issue body，跳过
+    if not issue['body']:
+        return
+    # 获取 issue 的详细信息
+    url = issue['url']
+    response = requests.get(url, headers=headers)
+    issue_data = response.json()
+
+    # 解析 issue 数据，生成 front-matter 并写入 markdown 文件
+    title = issue_data['title']
+    # utc+8
+    created_date = datetime.datetime.strptime(
+        issue_data['created_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
+    updated_date = datetime.datetime.strptime(
+        issue_data['updated_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
+    tags = [label['name'] for label in issue_data['labels']]
+
+    fm = frontmatter.Post('')
+    fm['title'] = title
+    fm['created_at'] = created_date
+    fm['updated_at'] = updated_date
+    fm['tags'] = tags
+
+    # 生成 markdown 文件
+    if not os.path.exists(base_path):
+        os.makedirs(base_path)
+    safe_title_for_filename = re.sub(r'[\/\\":|*?<>]', '_', title)
+    filename = f'{base_path}/{safe_title_for_filename}.md'
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(frontmatter.dumps(fm))
+        f.write('\n\n')
+        f.write(issue_data['body'])
+
+    # 打印生成的文件名和 issue 标题
+    print(f'File generated: {filename} ({title})')
+
+
 # 发送请求获取所有 issue 列表
 url = f'https://api.github.com/repos/{repo}/issues'
-params = {'state': 'all'}  # 获取所有状态的 issue
-response = requests.get(url, headers=headers, params=params)
+response = requests.get(url, headers=headers, params={
+                        'state': 'open', 'creator': owner, 'page': 1})
 
-# 定义筛选条件
-author = owner
+has_next = True
 
-# 遍历 issue 列表，筛选作者为 owner 的 issue
-for issue in response.json():
-    if issue['user']['login'] == author:
-        # 获取 issue 的详细信息
-        url = issue['url']
-        response = requests.get(url, headers=headers)
-        issue_data = response.json()
+while True:
+    print(f'Current page: {response.url}')
+    # 遍历 issue 列表
+    for issue in response.json():
+        handle_issues(base_path, headers, issue)
 
-        # 解析 issue 数据，生成 front-matter 并写入 markdown 文件
-        title = issue_data['title']
-        # utc-8
-        created_date = datetime.datetime.strptime(issue_data['created_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
-        updated_date = datetime.datetime.strptime(issue_data['updated_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
-        tags = [label['name'] for label in issue_data['labels']]
-
-        fm = frontmatter.Post('')
-        fm['title'] = title
-        fm['created_at'] = created_date
-        fm['updated_at'] = updated_date
-        fm['tags'] = tags
-
-        # 生成 markdown 文件
-        if not os.path.exists(base_path):
-            os.makedirs(base_path)
-        safe_title_for_filename = re.sub(r'[\/\\":|*?<>]', '_', title)
-        filename = f'{base_path}/{safe_title_for_filename}.md'
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(frontmatter.dumps(fm))
-            f.write('\n\n')
-            f.write(issue_data['body'])
-
-        # 打印生成的文件名和 issue 标题
-        print(f'File generated: {filename} ({title})')
+    # 如果有下一页，继续遍历
+    if has_next_page(response):
+        response = requests.get(response.links['next']['url'], headers=headers)
+    else:
+        break
