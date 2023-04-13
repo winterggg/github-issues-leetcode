@@ -33,19 +33,15 @@ def handle_issues(base_path, headers, issue):
     # 如果没有 issue body，跳过
     if not issue['body']:
         return
-    # 获取 issue 的详细信息
-    url = issue['url']
-    response = requests.get(url, headers=headers)
-    issue_data = response.json()
 
     # 解析 issue 数据，生成 front-matter 并写入 markdown 文件
-    title = issue_data['title']
+    title = issue['title']
     # utc+8
     created_date = datetime.datetime.strptime(
-        issue_data['created_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
+        issue['created_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
     updated_date = datetime.datetime.strptime(
-        issue_data['updated_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
-    tags = [label['name'] for label in issue_data['labels']]
+        issue['updated_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
+    tags = [label['name'] for label in issue['labels']]
 
     fm = frontmatter.Post('')
     fm['title'] = title
@@ -61,7 +57,7 @@ def handle_issues(base_path, headers, issue):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(frontmatter.dumps(fm))
         f.write('\n\n')
-        f.write(issue_data['body'])
+        f.write(issue['body'])
 
     # 打印生成的文件名和 issue 标题
     print(f'File generated: {filename} ({title})')
