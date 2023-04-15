@@ -43,5 +43,5 @@ jobs:
           git config --global user.name "bot"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "bot: 定期自动生成 markdown 文件"
+          git commit -m "bot: 自动更新 README 文件"
           git push
