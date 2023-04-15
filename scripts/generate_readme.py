@@ -87,7 +87,7 @@ def generate_table(mappings):
     dates = get_week_dates()
     table = ['|          | {} |'.format(' | '.join([date.strftime('%m.%d') for date in dates]))]
     table.append('| -------- | {} |'.format(' | '.join(['----' for _ in dates])))
-    table.append('| 刷题量： | {} |'.format(' | '.join([str(mappings.get(date.strftime('%Y/%m/%d'), '-')) for date in dates])))
+    table.append('| 刷题量 | {} |'.format(' | '.join([str(mappings.get(date.strftime('%Y/%m/%d'), '-')) for date in dates])))
     return table
 
 # 追加到 README.md 开头
