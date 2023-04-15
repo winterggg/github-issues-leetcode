@@ -85,9 +85,11 @@ def get_week_dates():
 # 生成 markdown 表格
 def generate_table(mappings):
     dates = get_week_dates()
+    total_count = sum([mappings.get(date.strftime('%Y/%m/%d'), 0) for date in dates])
     table = ['|          | {} |'.format(' | '.join([date.strftime('%m.%d') for date in dates]))]
-    table.append('| -------- | {} |'.format(' | '.join(['----' for _ in dates])))
+    table.append('| :--------: | {} |'.format(' | '.join([':---:' for _ in dates])))
     table.append('| 刷题量 | {} |'.format(' | '.join([str(mappings.get(date.strftime('%Y/%m/%d'), '-')) for date in dates])))
+    table.append('|        | {} |'.format(' | '.join([' ' for _ in range(len(dates)-2)] + [f'**总计：** | {total_count}'])))
     return table
 
 # 追加到 README.md 开头
