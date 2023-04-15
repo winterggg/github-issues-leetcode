@@ -2,7 +2,7 @@ import os
 import requests
 import datetime
 import frontmatter  # pip install python-frontmatter
-import re
+# import re
 
 # 从环境变量中获取 GitHub Personal Access Token
 token = os.environ.get('TOKEN')
@@ -36,6 +36,7 @@ def handle_issues(base_path, headers, issue):
 
     # 解析 issue 数据，生成 front-matter 并写入 markdown 文件
     title = issue['title']
+    issue_number = issue['number']
     # utc+8
     created_date = datetime.datetime.strptime(
         issue['created_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
@@ -48,12 +49,14 @@ def handle_issues(base_path, headers, issue):
     fm['created_at'] = created_date
     fm['updated_at'] = updated_date
     fm['tags'] = tags
+    fm['issue_number'] = issue_number
 
     # 生成 markdown 文件
     if not os.path.exists(base_path):
         os.makedirs(base_path)
-    safe_title_for_filename = re.sub(r'[\/\\":|*?<>]', '_', title)
-    filename = f'{base_path}/{safe_title_for_filename}.md'
+    # safe_title_for_filename = re.sub(r'[\/\\":|*?<>]', '_', title)
+    # filename = f'{base_path}/{safe_title_for_filename}.md'
+    filename = f'{base_path}/{issue_number}.md'
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(frontmatter.dumps(fm))
         f.write('\n\n')
@@ -68,7 +71,10 @@ url = f'https://api.github.com/repos/{repo}/issues'
 response = requests.get(url, headers=headers, params={
                         'state': 'open', 'creator': owner, 'page': 1})
 
-has_next = True
+# 清空 markdowns 目录
+if os.path.exists(base_path):
+    for file in os.listdir(base_path):
+        os.remove(os.path.join(base_path, file))
 
 while True:
     print(f'Current page: {response.url}')
