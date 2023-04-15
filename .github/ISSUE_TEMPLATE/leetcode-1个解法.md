@@ -1,5 +1,5 @@
 ---
-name: Leetcode 题目
+name: Leetcode 题目 - 单个解法
 about: 新建刷题记录
 title: ''
 labels: ''
