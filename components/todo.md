@@ -1,3 +1,4 @@
 - [x] Github Actions 每天生成 md 文件
 - [x] Github Actions 生成 README.md
 - [ ] 使用 Next.js 制作刷题笔记静态页面生成器
+- [ ] 建立索引，实现全文搜索功能
