@@ -8,6 +8,10 @@
 
 <!-- weekly -->
 
+## 近一周星标
+
+<!-- starred -->
+
 ## Todo
 
 <!-- todo -->
