@@ -8,11 +8,12 @@
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 4 | - | - | - | - | - | - |
-|        |   |   |   |   |   | **总计：** | 4 |
+| 刷题量 | 5 | - | - | - | - | - | - |
+|        |   |   |   |   |   | **总计：** | 5 |
 
 ## 近一周星标（复习清单）
 
+- [124. 二叉树中的最大路径和](https://github.com/winterggg/github-issues-leetcode/issues/39)
 - [143. 重排链表](https://github.com/winterggg/github-issues-leetcode/issues/38)
 - [42. 接雨水](https://github.com/winterggg/github-issues-leetcode/issues/37)
 - [300. 最长递增子序列](https://github.com/winterggg/github-issues-leetcode/issues/36)
