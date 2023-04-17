@@ -1,5 +1,7 @@
 # github-issues-leetcode
 
+[![Export Issues](https://github.com/winterggg/github-issues-leetcode/actions/workflows/export_issues.yml/badge.svg)](https://github.com/winterggg/github-issues-leetcode/actions/workflows/export_issues.yml) [![Generate README.md](https://github.com/winterggg/github-issues-leetcode/actions/workflows/gemerate_readme.yml/badge.svg)](https://github.com/winterggg/github-issues-leetcode/actions/workflows/gemerate_readme.yml)
+
 每日刷题记录，在 issue 里记录每一道题，自动生成 markdown 文件。
 
 [开始刷题 💪](https://github.com/winterggg/leetcode/issues/new/choose)
@@ -8,11 +10,12 @@
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 5 | - | - | - | - | - | - |
-|        |   |   |   |   |   | **总计：** | 5 |
+| 刷题量 | 7 | - | - | - | - | - | - |
+|        |   |   |   |   |   | **总计：** | 7 |
 
 ## 近一周星标（复习清单）
 
+- [94. 二叉树的中序遍历](https://github.com/winterggg/github-issues-leetcode/issues/40)
 - [124. 二叉树中的最大路径和](https://github.com/winterggg/github-issues-leetcode/issues/39)
 - [143. 重排链表](https://github.com/winterggg/github-issues-leetcode/issues/38)
 - [42. 接雨水](https://github.com/winterggg/github-issues-leetcode/issues/37)
