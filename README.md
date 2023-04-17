@@ -8,11 +8,13 @@
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | - | - | - | - | - | - | - |
-|        |   |   |   |   |   | **总计：** | 0 |
+| 刷题量 | 2 | - | - | - | - | - | - |
+|        |   |   |   |   |   | **总计：** | 2 |
 
-## 近一周星标
+## 近一周星标（复习清单）
 
+- [300. 最长递增子序列](https://github.com/winterggg/github-issues-leetcode/issues/36)
+- [142. 环形链表 II](https://github.com/winterggg/github-issues-leetcode/issues/35)
 - [92. 反转链表 II](https://github.com/winterggg/github-issues-leetcode/issues/33)
 - [23. 合并 K 个升序链表](https://github.com/winterggg/github-issues-leetcode/issues/32)
 - [54. 螺旋矩阵](https://github.com/winterggg/github-issues-leetcode/issues/31)
