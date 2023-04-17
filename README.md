@@ -10,11 +10,12 @@
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 7 | - | - | - | - | - | - |
-|        |   |   |   |   |   | **总计：** | 7 |
+| 刷题量 | 10 | - | - | - | - | - | - |
+|        |   |   |   |   |   | **总计：** | 10 |
 
 ## 近一周星标（复习清单）
 
+- [72. 编辑距离](https://github.com/winterggg/github-issues-leetcode/issues/42)
 - [94. 二叉树的中序遍历](https://github.com/winterggg/github-issues-leetcode/issues/40)
 - [124. 二叉树中的最大路径和](https://github.com/winterggg/github-issues-leetcode/issues/39)
 - [143. 重排链表](https://github.com/winterggg/github-issues-leetcode/issues/38)
