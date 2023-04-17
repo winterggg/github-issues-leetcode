@@ -8,11 +8,12 @@
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 3 | - | - | - | - | - | - |
-|        |   |   |   |   |   | **总计：** | 3 |
+| 刷题量 | 4 | - | - | - | - | - | - |
+|        |   |   |   |   |   | **总计：** | 4 |
 
 ## 近一周星标（复习清单）
 
+- [143. 重排链表](https://github.com/winterggg/github-issues-leetcode/issues/38)
 - [42. 接雨水](https://github.com/winterggg/github-issues-leetcode/issues/37)
 - [300. 最长递增子序列](https://github.com/winterggg/github-issues-leetcode/issues/36)
 - [142. 环形链表 II](https://github.com/winterggg/github-issues-leetcode/issues/35)
