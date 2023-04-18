@@ -56,8 +56,11 @@ def handle_issues(issue, mappings=None, starred_issues=None, review_issues=None)
 
     created_date = datetime.datetime.strptime(
         issue['created_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
-    date_path = created_date.strftime('%Y/%m/%d')
-    mappings[date_path] += 1
+    updated_date = datetime.datetime.strptime(
+        issue['updated_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
+    created_date_path = created_date.strftime('%Y/%m/%d')
+    updated_date_path = updated_date.strftime('%Y/%m/%d')
+    mappings[created_date_path] += 1
 
     review_flag = False
     like_flag = False
@@ -66,10 +69,17 @@ def handle_issues(issue, mappings=None, starred_issues=None, review_issues=None)
             if label['name'] == "-Like":
                 like_flag = True
             elif label['name'] == "-Review":
-                review_issues[date_path] += 1
+                review_issues[updated_date_path] += 1
                 review_flag = True
-        if like_flag:
-            starred_issues.append({'url': issue['html_url'], 'title': issue['title'], 'reviewed': review_flag})
+
+    elif updated_date.date() >= A_WEEK_AGO:
+        for label in issue['labels']:
+            if label['name'] == "-Review":
+                review_issues[updated_date_path] += 1
+                break
+        
+    if like_flag:
+        starred_issues.append({'url': issue['html_url'], 'title': issue['title'], 'reviewed': review_flag})
 
     return mappings, starred_issues, review_issues
 
