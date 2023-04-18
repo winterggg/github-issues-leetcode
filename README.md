@@ -4,18 +4,20 @@
 
 每日刷题记录，在 issue 里记录每一道题，自动生成 markdown 文件。
 
-[开始刷题 💪](https://github.com/winterggg/leetcode/issues/new/choose)
+[<kbd> <br> 开始刷题 💪 <br> </kbd>](https://github.com/winterggg/leetcode/issues/new/choose)
 
 ## 本周记录
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 10 | - | - | - | - | - | - |
+| 刷题量 | 10 | 3 | - | - | - | - | - |
 | 复习量 | - | 1 | - | - | - | - | - |
-|        |   | **本周复习** | 1 | **本周刷题** | 10 | **连续打卡** | 5 |
+|        |   | **本周复习** | 1 | **本周刷题** | 13 | **连续打卡** | 6 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [199. 二叉树的右视图](https://github.com/winterggg/github-issues-leetcode/issues/46)
+- [ ] [4. 寻找两个正序数组的中位数](https://github.com/winterggg/github-issues-leetcode/issues/45)
 - [ ] [72. 编辑距离](https://github.com/winterggg/github-issues-leetcode/issues/42)
 - [ ] [94. 二叉树的中序遍历](https://github.com/winterggg/github-issues-leetcode/issues/40)
 - [ ] [124. 二叉树中的最大路径和](https://github.com/winterggg/github-issues-leetcode/issues/39)
