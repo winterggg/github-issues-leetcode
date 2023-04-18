@@ -39,11 +39,14 @@ A_WEEK_AGO = (datetime.datetime.now() + datetime.timedelta(hours=8) - datetime.t
 def has_next_page(response):
     return response.links and 'next' in response.links
 
-def handle_issues(issue, mappings=None, starred_issues=None):
+def handle_issues(issue, mappings=None, starred_issues=None, review_issues=None):
     if not mappings:
         mappings = defaultdict(int)
     if not starred_issues:
         starred_issues = []
+    
+    if not review_issues:
+        review_issues = defaultdict(int)
 
     if not issue['body']:
         return mappings, starred_issues
@@ -57,9 +60,10 @@ def handle_issues(issue, mappings=None, starred_issues=None):
         for label in issue['labels']:
             if label['name'] == "-Like":
                 starred_issues.append({'url': issue['html_url'], 'title': issue['title']})
-                break
+            elif label['name'] == "-Review":
+                review_issues[date_path] += 1
 
-    return mappings, starred_issues
+    return mappings, starred_issues, review_issues
 
 
 
@@ -70,12 +74,13 @@ response = requests.get(url, headers=headers, params={
 
 mappings = None
 starred_issues = None
+review_issues = None
 
 while True:
     print(f'Current page: {response.url}')
     # 遍历 issue 列表
     for issue in response.json():
-        mappings, starred_issues = handle_issues(issue, mappings, starred_issues)
+        mappings, starred_issues, review_issues = handle_issues(issue, mappings, starred_issues, review_issues)
 
     # 如果有下一页，继续遍历
     if has_next_page(response):
@@ -83,22 +88,29 @@ while True:
     else:
         break
 
-# mappings = defaultdict(<class 'int'>, {'2023/04/15': 5, '2023/04/14': 5, '2023/04/13': 2, '2023/02/03': 1, '2023/02/02': 1, '2023/02/01': 1, '2023/01/31': 1, '2023/01/30': 1, '2023/01/29': 1, '2023/01/28': 1})
-# output
-# # 本周记录
-# |          | 4.10 | 4.11 | 4.12 | 4.13 | 4.14 | 4.15 | 4.16 |
-# | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-# | 刷题量： | -    | -    | -    | 10   | 5    | -    | -    |
+def count_streak_days(mappings):
+    streak = 0
+    today = datetime.datetime.now() + datetime.timedelta(hours=8)
+    date = today.date()
+    # 如果今天还没有刷题，先从昨天开始统计
+    if date.strftime('%Y/%m/%d') not in mappings:
+        date -= datetime.timedelta(days=1)
+    while date.strftime('%Y/%m/%d') in mappings:
+        streak += 1
+        date -= datetime.timedelta(days=1)
+    return streak
 
+streak = count_streak_days(mappings)
 
 # 生成 markdown 表格
-def generate_table(mappings):
+def generate_table(mappings, review_issues, streak):
     dates = WEEK_DATES
     total_count = sum([mappings.get(date.strftime('%Y/%m/%d'), 0) for date in dates])
     table = ['|          | {} |'.format(' | '.join([date.strftime('%m.%d') for date in dates]))]
     table.append('| :--------: | {} |'.format(' | '.join([':---:' for _ in dates])))
     table.append('| 刷题量 | {} |'.format(' | '.join([str(mappings.get(date.strftime('%Y/%m/%d'), '-')) for date in dates])))
-    table.append('|        | {} |'.format(' | '.join([' ' for _ in range(len(dates)-2)] + [f'**总计：** | {total_count}'])))
+    table.append('| 复习量 | {} |'.format(' | '.join([str(review_issues.get(date.strftime('%Y/%m/%d'), '-')) for date in dates])))
+    table.append('|        | {} |'.format(' | '.join([' ' for _ in range(len(dates)-6)] + [f'**总复习：** | {sum(review_issues.values())}', f'**总刷题：** | {total_count}', f'**连续天数：** | {streak}'])))
     return table
 
 def generate_starred_list(starred_issues):
@@ -126,7 +138,7 @@ with open(todo_path, 'r', encoding='utf-8') as f:
     todo = f.read()
 
 starred = generate_starred_list(starred_issues)
-weekly = '\n'.join(generate_table(mappings))
+weekly = '\n'.join(generate_table(mappings, review_issues, streak))
 
 with open('./README.md', 'w', encoding='utf-8') as f:
     content = tpl
