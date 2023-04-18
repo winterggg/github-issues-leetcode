@@ -12,7 +12,7 @@
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 刷题量 | 10 | - | - | - | - | - | - |
 | 复习量 | - | - | - | - | - | - | - |
-|        |   | **本周复习** | 0 | **本周刷题** | 10 | **连续打卡** | 5 |
+|        |   | **本周复习** | 1 | **本周刷题** | 10 | **连续打卡** | 5 |
 
 ## 近一周星标（复习清单）
 
@@ -38,7 +38,7 @@
 - [ ] [25. K 个一组翻转链表](https://github.com/winterggg/github-issues-leetcode/issues/13)
 - [ ] [215. 数组中的第K个最大元素](https://github.com/winterggg/github-issues-leetcode/issues/12)
 - [ ] [146. LRU 缓存](https://github.com/winterggg/github-issues-leetcode/issues/11)
-- [ ] [3. 无重复字符的最长子串](https://github.com/winterggg/github-issues-leetcode/issues/9)
+- [x] [3. 无重复字符的最长子串](https://github.com/winterggg/github-issues-leetcode/issues/9)
 
 ## Todo
 
