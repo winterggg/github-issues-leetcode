@@ -3,8 +3,12 @@ import os
 import requests
 import datetime
 
+from utils.dotenv_loader import load_env
+
 # 设置时区为 UTC+0，防止 Debug 时时区不一致导致的问题 
 os.environ['TZ'] = 'UTC'
+
+load_env()
 
 # 从环境变量中获取 GitHub Personal Access Token
 token = os.environ.get('TOKEN')
@@ -144,7 +148,7 @@ with open(plan_path, 'r', encoding='utf-8') as f:
 with open(todo_path, 'r', encoding='utf-8') as f:
     todo = f.read()
 
-starred = generate_starred_list(starred_issues, reviewed_issues)
+starred = generate_starred_list(starred_issues)
 weekly = '\n'.join(generate_table(mappings, review_issues, streak))
 
 with open('./README.md', 'w', encoding='utf-8') as f:

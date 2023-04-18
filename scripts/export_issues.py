@@ -1,8 +1,12 @@
 import os
 import requests
 import datetime
-import frontmatter  # pip install python-frontmatter
+import frontmatter # pip install python-frontmatter
+
+from utils.dotenv_loader import load_env
 # import re
+
+load_env()
 
 # 从环境变量中获取 GitHub Personal Access Token
 token = os.environ.get('TOKEN')
