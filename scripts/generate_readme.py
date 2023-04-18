@@ -44,24 +44,28 @@ def handle_issues(issue, mappings=None, starred_issues=None, review_issues=None)
         mappings = defaultdict(int)
     if not starred_issues:
         starred_issues = []
-    
     if not review_issues:
         review_issues = defaultdict(int)
 
     if not issue['body']:
-        return mappings, starred_issues
+        return mappings, starred_issues, review_issues
 
     created_date = datetime.datetime.strptime(
         issue['created_at'], '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(hours=8)
     date_path = created_date.strftime('%Y/%m/%d')
     mappings[date_path] += 1
 
+    review_flag = False
+    like_flag = False
     if created_date.date() >= A_WEEK_AGO:
         for label in issue['labels']:
             if label['name'] == "-Like":
-                starred_issues.append({'url': issue['html_url'], 'title': issue['title']})
+                like_flag = True
             elif label['name'] == "-Review":
                 review_issues[date_path] += 1
+                review_flag = True
+        if like_flag:
+            starred_issues.append({'url': issue['html_url'], 'title': issue['title'], 'reviewed': review_flag})
 
     return mappings, starred_issues, review_issues
 
@@ -119,7 +123,10 @@ def generate_starred_list(starred_issues):
 
     md_list = []
     for issue in starred_issues:
-        md_list.append(f'- [{issue["title"]}]({issue["url"]})')
+        if issue['reviewed']:
+            md_list.append(f'- [x] [{issue["title"]}]({issue["url"]})')
+        else:
+            md_list.append(f'- [ ] [{issue["title"]}]({issue["url"]})')
 
     return '\n'.join(md_list)
 
@@ -137,7 +144,7 @@ with open(plan_path, 'r', encoding='utf-8') as f:
 with open(todo_path, 'r', encoding='utf-8') as f:
     todo = f.read()
 
-starred = generate_starred_list(starred_issues)
+starred = generate_starred_list(starred_issues, reviewed_issues)
 weekly = '\n'.join(generate_table(mappings, review_issues, streak))
 
 with open('./README.md', 'w', encoding='utf-8') as f:
