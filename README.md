@@ -10,12 +10,13 @@
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 10 | 5 | - | - | - | - | - |
+| 刷题量 | 10 | 5 | 1 | - | - | - | - |
 | 复习量 | - | 1 | - | - | - | - | - |
-|        |   | **本周复习** | 1 | **本周刷题** | 15 | **连续打卡** | 6 |
+|        |   | **本周复习** | 1 | **本周刷题** | 16 | **连续打卡** | 7 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [82. 删除排序链表中的重复元素 II](https://github.com/winterggg/github-issues-leetcode/issues/50)
 - [ ] [148. 排序链表](https://github.com/winterggg/github-issues-leetcode/issues/49)
 - [ ] [56. 合并区间](https://github.com/winterggg/github-issues-leetcode/issues/48)
 - [ ] [199. 二叉树的右视图](https://github.com/winterggg/github-issues-leetcode/issues/46)
