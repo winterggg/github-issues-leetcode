@@ -11,8 +11,8 @@
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 刷题量 | 10 | 5 | 5 | - | - | - | - |
-| 复习量 | - | 1 | - | - | - | - | - |
-|        |   | **本周复习** | 1 | **本周刷题** | 20 | **连续打卡** | 7 |
+| 复习量 | - | 1 | 1 | - | - | - | - |
+|        |   | **本周复习** | 2 | **本周刷题** | 20 | **连续打卡** | 7 |
 
 ## 近一周星标（复习清单）
 
@@ -44,7 +44,7 @@
 - [ ] [15. 三数之和](https://github.com/winterggg/github-issues-leetcode/issues/14)
 - [ ] [25. K 个一组翻转链表](https://github.com/winterggg/github-issues-leetcode/issues/13)
 - [ ] [215. 数组中的第K个最大元素](https://github.com/winterggg/github-issues-leetcode/issues/12)
-- [ ] [146. LRU 缓存](https://github.com/winterggg/github-issues-leetcode/issues/11)
+- [x] [146. LRU 缓存](https://github.com/winterggg/github-issues-leetcode/issues/11)
 - [x] [3. 无重复字符的最长子串](https://github.com/winterggg/github-issues-leetcode/issues/9)
 
 ## Todo
