@@ -12,6 +12,9 @@ jobs:
     env:
       TOKEN: ${{ secrets.TOKEN }}  # GitHub Personal Access Token，需要在仓库的 Secrets 中设置
     steps:
+      - name: Echo time in Asia/Shanghai
+        run: TZ=Asia/Shanghai date
+        
       - name: Checkout code
         with: 
           token: ${{ secrets.TOKEN }}
