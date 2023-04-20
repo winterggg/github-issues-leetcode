@@ -49,7 +49,6 @@
 - [x] [25. K 个一组翻转链表](https://github.com/winterggg/github-issues-leetcode/issues/13)
 - [x] [215. 数组中的第K个最大元素](https://github.com/winterggg/github-issues-leetcode/issues/12)
 - [x] [146. LRU 缓存](https://github.com/winterggg/github-issues-leetcode/issues/11)
-- [x] [3. 无重复字符的最长子串](https://github.com/winterggg/github-issues-leetcode/issues/9)
 
 ## Todo
 
