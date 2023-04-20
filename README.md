@@ -10,12 +10,14 @@
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 10 | 5 | 5 | 3 | - | - | - |
+| 刷题量 | 10 | 5 | 5 | 5 | - | - | - |
 | 复习量 | - | 1 | 1 | - | - | - | - |
-|        |   | **本周复习** | 2 | **本周刷题** | 23 | **连续打卡** | 8 |
+|        |   | **本周复习** | 2 | **本周刷题** | 25 | **连续打卡** | 8 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [239. 滑动窗口最大值](https://github.com/winterggg/github-issues-leetcode/issues/59)
+- [ ] [41. 缺失的第一个正数](https://github.com/winterggg/github-issues-leetcode/issues/58)
 - [ ] [8. 字符串转换整数 (atoi)](https://github.com/winterggg/github-issues-leetcode/issues/57)
 - [ ] [93. 复原 IP 地址](https://github.com/winterggg/github-issues-leetcode/issues/56)
 - [ ] [1143. 最长公共子序列](https://github.com/winterggg/github-issues-leetcode/issues/52)
