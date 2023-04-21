@@ -10,12 +10,13 @@
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 10 | 5 | 5 | 5 | 4 | - | - |
+| 刷题量 | 10 | 5 | 5 | 5 | 5 | - | - |
 | 复习量 | - | 1 | 1 | 4 | - | - | - |
-|        |   | **本周复习** | 6 | **本周刷题** | 29 | **连续打卡** | 9 |
+|        |   | **本周复习** | 6 | **本周刷题** | 30 | **连续打卡** | 9 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [151. 反转字符串中的单词](https://github.com/winterggg/github-issues-leetcode/issues/64)
 - [ ] [105. 从前序与中序遍历序列构造二叉树](https://github.com/winterggg/github-issues-leetcode/issues/63)
 - [ ] [165. 比较版本号](https://github.com/winterggg/github-issues-leetcode/issues/62)
 - [ ] [76. 最小覆盖子串](https://github.com/winterggg/github-issues-leetcode/issues/61)
