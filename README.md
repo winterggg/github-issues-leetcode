@@ -48,11 +48,6 @@
 - [ ] [33. 搜索旋转排序数组](https://github.com/winterggg/github-issues-leetcode/issues/21)
 - [ ] [5. 最长回文子串](https://github.com/winterggg/github-issues-leetcode/issues/20)
 - [ ] [补充题4. 手撕快速排序](https://github.com/winterggg/github-issues-leetcode/issues/16)
-- [x] [53. 最大子数组和](https://github.com/winterggg/github-issues-leetcode/issues/15)
-- [x] [15. 三数之和](https://github.com/winterggg/github-issues-leetcode/issues/14)
-- [x] [25. K 个一组翻转链表](https://github.com/winterggg/github-issues-leetcode/issues/13)
-- [x] [215. 数组中的第K个最大元素](https://github.com/winterggg/github-issues-leetcode/issues/12)
-- [x] [146. LRU 缓存](https://github.com/winterggg/github-issues-leetcode/issues/11)
 
 ## Todo
 
