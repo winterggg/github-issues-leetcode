@@ -47,9 +47,6 @@
 - [ ] [46. 全排列](https://github.com/winterggg/github-issues-leetcode/issues/29)
 - [ ] [236. 二叉树的最近公共祖先](https://github.com/winterggg/github-issues-leetcode/issues/28)
 - [ ] [200. 岛屿数量](https://github.com/winterggg/github-issues-leetcode/issues/25)
-- [x] [33. 搜索旋转排序数组](https://github.com/winterggg/github-issues-leetcode/issues/21)
-- [x] [5. 最长回文子串](https://github.com/winterggg/github-issues-leetcode/issues/20)
-- [x] [补充题4. 手撕快速排序](https://github.com/winterggg/github-issues-leetcode/issues/16)
 
 ## Todo
 
