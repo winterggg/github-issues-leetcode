@@ -11,8 +11,8 @@
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 刷题量 | 10 | 5 | 5 | 5 | 5 | 2 | - |
-| 复习量 | - | 1 | 1 | 4 | - | - | - |
-|        |   | **本周复习** | 6 | **本周刷题** | 32 | **连续打卡** | 10 |
+| 复习量 | - | 1 | 1 | 4 | - | 2 | - |
+|        |   | **本周复习** | 8 | **本周刷题** | 32 | **连续打卡** | 10 |
 
 ## 近一周星标（复习清单）
 
@@ -47,9 +47,9 @@
 - [ ] [46. 全排列](https://github.com/winterggg/github-issues-leetcode/issues/29)
 - [ ] [236. 二叉树的最近公共祖先](https://github.com/winterggg/github-issues-leetcode/issues/28)
 - [ ] [200. 岛屿数量](https://github.com/winterggg/github-issues-leetcode/issues/25)
-- [ ] [33. 搜索旋转排序数组](https://github.com/winterggg/github-issues-leetcode/issues/21)
+- [x] [33. 搜索旋转排序数组](https://github.com/winterggg/github-issues-leetcode/issues/21)
 - [ ] [5. 最长回文子串](https://github.com/winterggg/github-issues-leetcode/issues/20)
-- [ ] [补充题4. 手撕快速排序](https://github.com/winterggg/github-issues-leetcode/issues/16)
+- [x] [补充题4. 手撕快速排序](https://github.com/winterggg/github-issues-leetcode/issues/16)
 
 ## Todo
 
