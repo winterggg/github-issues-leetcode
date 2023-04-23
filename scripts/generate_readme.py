@@ -148,6 +148,7 @@ def generate_starred_list(starred_issues):
 tpl_path = './tpl/README_tpl.md'
 plan_path = './components/plan.md'
 todo_path = './components/todo.md'
+resources_path = './components/resources.md'
 
 with open(tpl_path, 'r', encoding='utf-8') as f:
     tpl = f.read()
@@ -158,6 +159,9 @@ with open(plan_path, 'r', encoding='utf-8') as f:
 with open(todo_path, 'r', encoding='utf-8') as f:
     todo = f.read()
 
+with open(resources_path, 'r', encoding='utf-8') as f:
+    resources = f.read()
+
 starred = generate_starred_list(starred_issues)
 weekly = '\n'.join(generate_table(mappings, review_issues, streak))
 
@@ -167,6 +171,7 @@ with open('./README.md', 'w', encoding='utf-8') as f:
     content = content.replace('<!-- plan -->', plan)
     content = content.replace('<!-- todo -->', todo)
     content = content.replace('<!-- starred -->', starred)
+    content = content.replace('<!-- resources -->', resources)
     f.write(content)
 
 

@@ -1,0 +1,4 @@
+- 周赛、基础知识视频降解：[灵茶山艾府的个人空间_bilibili](https://space.bilibili.com/206214/channel/series)
+- [Codetop 高频题清单](./CodeTop题库.csv)
+- [周赛题清单](./scripts/crawler/weekly_contests.csv)
+- 面试题清单
