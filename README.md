@@ -8,11 +8,11 @@
 
 ## 本周记录
 
-|          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
+|          | 04.24 | 04.25 | 04.26 | 04.27 | 04.28 | 04.29 | 04.30 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 10 | 5 | 5 | 5 | 5 | 2 | 2 |
-| 复习量 | - | 1 | 1 | 4 | - | 3 | 9 |
-|        |   | **本周复习** | 18 | **本周刷题** | 34 | **连续打卡** | 11 |
+| 刷题量 | - | - | - | - | - | - | - |
+| 复习量 | - | - | - | - | - | - | - |
+|        |   | **本周复习** | 18 | **本周刷题** | 0 | **连续打卡** | 11 |
 
 ## 近一周星标（复习清单）
 
@@ -42,13 +42,6 @@
 - [ ] [42. 接雨水](https://github.com/winterggg/github-issues-leetcode/issues/37)
 - [x] [300. 最长递增子序列](https://github.com/winterggg/github-issues-leetcode/issues/36)
 - [x] [142. 环形链表 II](https://github.com/winterggg/github-issues-leetcode/issues/35)
-- [x] [92. 反转链表 II](https://github.com/winterggg/github-issues-leetcode/issues/33)
-- [x] [23. 合并 K 个升序链表](https://github.com/winterggg/github-issues-leetcode/issues/32)
-- [x] [54. 螺旋矩阵](https://github.com/winterggg/github-issues-leetcode/issues/31)
-- [x] [160. 相交链表](https://github.com/winterggg/github-issues-leetcode/issues/30)
-- [x] [46. 全排列](https://github.com/winterggg/github-issues-leetcode/issues/29)
-- [x] [236. 二叉树的最近公共祖先](https://github.com/winterggg/github-issues-leetcode/issues/28)
-- [x] [200. 岛屿数量](https://github.com/winterggg/github-issues-leetcode/issues/25)
 
 ## 资料
 
