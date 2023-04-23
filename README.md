@@ -11,8 +11,8 @@
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 刷题量 | 10 | 5 | 5 | 5 | 5 | 2 | 2 |
-| 复习量 | - | 1 | 1 | 4 | - | 3 | - |
-|        |   | **本周复习** | 9 | **本周刷题** | 34 | **连续打卡** | 11 |
+| 复习量 | - | 1 | 1 | 4 | - | 3 | 9 |
+|        |   | **本周复习** | 18 | **本周刷题** | 34 | **连续打卡** | 11 |
 
 ## 近一周星标（复习清单）
 
@@ -40,15 +40,15 @@
 - [ ] [124. 二叉树中的最大路径和](https://github.com/winterggg/github-issues-leetcode/issues/39)
 - [ ] [143. 重排链表](https://github.com/winterggg/github-issues-leetcode/issues/38)
 - [ ] [42. 接雨水](https://github.com/winterggg/github-issues-leetcode/issues/37)
-- [ ] [300. 最长递增子序列](https://github.com/winterggg/github-issues-leetcode/issues/36)
-- [ ] [142. 环形链表 II](https://github.com/winterggg/github-issues-leetcode/issues/35)
-- [ ] [92. 反转链表 II](https://github.com/winterggg/github-issues-leetcode/issues/33)
-- [ ] [23. 合并 K 个升序链表](https://github.com/winterggg/github-issues-leetcode/issues/32)
-- [ ] [54. 螺旋矩阵](https://github.com/winterggg/github-issues-leetcode/issues/31)
-- [ ] [160. 相交链表](https://github.com/winterggg/github-issues-leetcode/issues/30)
-- [ ] [46. 全排列](https://github.com/winterggg/github-issues-leetcode/issues/29)
-- [ ] [236. 二叉树的最近公共祖先](https://github.com/winterggg/github-issues-leetcode/issues/28)
-- [ ] [200. 岛屿数量](https://github.com/winterggg/github-issues-leetcode/issues/25)
+- [x] [300. 最长递增子序列](https://github.com/winterggg/github-issues-leetcode/issues/36)
+- [x] [142. 环形链表 II](https://github.com/winterggg/github-issues-leetcode/issues/35)
+- [x] [92. 反转链表 II](https://github.com/winterggg/github-issues-leetcode/issues/33)
+- [x] [23. 合并 K 个升序链表](https://github.com/winterggg/github-issues-leetcode/issues/32)
+- [x] [54. 螺旋矩阵](https://github.com/winterggg/github-issues-leetcode/issues/31)
+- [x] [160. 相交链表](https://github.com/winterggg/github-issues-leetcode/issues/30)
+- [x] [46. 全排列](https://github.com/winterggg/github-issues-leetcode/issues/29)
+- [x] [236. 二叉树的最近公共祖先](https://github.com/winterggg/github-issues-leetcode/issues/28)
+- [x] [200. 岛屿数量](https://github.com/winterggg/github-issues-leetcode/issues/25)
 
 ## 资料
 
