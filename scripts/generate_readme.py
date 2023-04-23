@@ -128,7 +128,7 @@ def generate_table(mappings, review_issues, streak):
     table.append('| :--------: | {} |'.format(' | '.join([':---:' for _ in dates])))
     table.append('| 刷题量 | {} |'.format(' | '.join([str(mappings.get(date.strftime('%Y/%m/%d'), '-')) for date in dates])))
     table.append('| 复习量 | {} |'.format(' | '.join([str(review_issues.get(date.strftime('%Y/%m/%d'), '-')) for date in dates])))
-    table.append('|        | {} |'.format(' | '.join([' ' for _ in range(len(dates)-6)] + [f'**本周复习** | {sum([review_issues.get(date.strftime('%Y/%m/%d') for date in dates])}', f'**本周刷题** | {total_count}', f'**连续打卡** | {streak}'])))
+    table.append('|        | {} |'.format(' | '.join([' ' for _ in range(len(dates)-6)] + [f'**本周复习** | {sum([review_issues.get(date.strftime('%Y/%m/%d')) for date in dates])}', f'**本周刷题** | {total_count}', f'**连续打卡** | {streak}'])))
     return table
 
 def generate_starred_list(starred_issues):
