@@ -50,11 +50,18 @@
 - [ ] [236. 二叉树的最近公共祖先](https://github.com/winterggg/github-issues-leetcode/issues/28)
 - [ ] [200. 岛屿数量](https://github.com/winterggg/github-issues-leetcode/issues/25)
 
+## 资料
+
+- 周赛、基础知识视频降解：[灵茶山艾府的个人空间_bilibili](https://space.bilibili.com/206214/channel/series)
+- [Codetop 高频题清单](./CodeTop题库.csv)
+- [周赛题清单](./scripts/crawler/weekly_contests.csv)
+- 面试题清单
+
 ## Todo
 
 - [x] Github Actions 每天生成 md 文件
 - [x] Github Actions 生成 README.md
-- [ ] 爬一些新题
+- [x] 写一个爬虫，爬取所有 Leetcode 周赛的题目
 - [ ] 使用 Next.js 制作刷题笔记静态页面生成器
 - [ ] 建立索引，实现全文搜索功能
 
