@@ -10,12 +10,13 @@
 
 |          | 04.17 | 04.18 | 04.19 | 04.20 | 04.21 | 04.22 | 04.23 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 10 | 5 | 5 | 5 | 5 | 2 | - |
+| 刷题量 | 10 | 5 | 5 | 5 | 5 | 2 | 1 |
 | 复习量 | - | 1 | 1 | 4 | - | 3 | - |
-|        |   | **本周复习** | 9 | **本周刷题** | 32 | **连续打卡** | 10 |
+|        |   | **本周复习** | 9 | **本周刷题** | 33 | **连续打卡** | 11 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2645. 构造有效字符串的最少插入数](https://github.com/winterggg/github-issues-leetcode/issues/67)
 - [ ] [154. 寻找旋转排序数组中的最小值 II](https://github.com/winterggg/github-issues-leetcode/issues/66)
 - [ ] [670. 最大交换](https://github.com/winterggg/github-issues-leetcode/issues/65)
 - [ ] [151. 反转字符串中的单词](https://github.com/winterggg/github-issues-leetcode/issues/64)
