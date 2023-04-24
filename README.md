@@ -50,7 +50,7 @@
 - LeetCode 周赛预估难度分：[leetcode_problem_rating](https://zerotrac.github.io/leetcode_problem_rating)
 - 周赛、基础知识视频讲解：[灵茶山艾府的个人空间_bilibili](https://space.bilibili.com/206214/channel/series)
 - [Codetop 高频题清单](./CodeTop题库.csv)
-- [周赛题清单](./scripts/crawler/weekly_contests.csv)
+- [周赛题清单](./scripts/crawler/weekly_contests_with_rating.csv)
 - 面试题清单
 
 
@@ -59,7 +59,7 @@
 - [x] Github Actions 每天生成 md 文件
 - [x] Github Actions 生成 README.md
 - [x] 写一个爬虫，爬取所有 Leetcode 周赛的题目
-- [ ] 修改爬虫，加上零神的[预估难度分](https://zerotrac.github.io/leetcode_problem_rating)
+- [x] 修改爬虫，加上零神的[预估难度分](https://zerotrac.github.io/leetcode_problem_rating)
 - [ ] 使用 Next.js 制作刷题笔记静态页面生成器
 - [ ] 建立索引，实现全文搜索功能
 
