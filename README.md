@@ -11,8 +11,8 @@
 |          | 04.24 | 04.25 | 04.26 | 04.27 | 04.28 | 04.29 | 04.30 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 刷题量 | 2 | - | - | - | - | - | - |
-| 复习量 | - | - | - | - | - | - | - |
-|        |   | **本周复习** | 0 | **本周刷题** | 2 | **连续打卡** | 12 |
+| 复习量 | 5 | - | - | - | - | - | - |
+|        |   | **本周复习** | 5 | **本周刷题** | 2 | **连续打卡** | 12 |
 
 ## 近一周星标（复习清单）
 
@@ -37,11 +37,11 @@
 - [ ] [56. 合并区间](https://github.com/winterggg/github-issues-leetcode/issues/48)
 - [ ] [199. 二叉树的右视图](https://github.com/winterggg/github-issues-leetcode/issues/46)
 - [ ] [4. 寻找两个正序数组的中位数](https://github.com/winterggg/github-issues-leetcode/issues/45)
-- [ ] [72. 编辑距离](https://github.com/winterggg/github-issues-leetcode/issues/42)
-- [ ] [94. 二叉树的中序遍历](https://github.com/winterggg/github-issues-leetcode/issues/40)
-- [ ] [124. 二叉树中的最大路径和](https://github.com/winterggg/github-issues-leetcode/issues/39)
-- [ ] [143. 重排链表](https://github.com/winterggg/github-issues-leetcode/issues/38)
-- [ ] [42. 接雨水](https://github.com/winterggg/github-issues-leetcode/issues/37)
+- [x] [72. 编辑距离](https://github.com/winterggg/github-issues-leetcode/issues/42)
+- [x] [94. 二叉树的中序遍历](https://github.com/winterggg/github-issues-leetcode/issues/40)
+- [x] [124. 二叉树中的最大路径和](https://github.com/winterggg/github-issues-leetcode/issues/39)
+- [x] [143. 重排链表](https://github.com/winterggg/github-issues-leetcode/issues/38)
+- [x] [42. 接雨水](https://github.com/winterggg/github-issues-leetcode/issues/37)
 - [x] [300. 最长递增子序列](https://github.com/winterggg/github-issues-leetcode/issues/36)
 - [x] [142. 环形链表 II](https://github.com/winterggg/github-issues-leetcode/issues/35)
 
