@@ -37,13 +37,6 @@
 - [ ] [56. 合并区间](https://github.com/winterggg/github-issues-leetcode/issues/48)
 - [ ] [199. 二叉树的右视图](https://github.com/winterggg/github-issues-leetcode/issues/46)
 - [ ] [4. 寻找两个正序数组的中位数](https://github.com/winterggg/github-issues-leetcode/issues/45)
-- [x] [72. 编辑距离](https://github.com/winterggg/github-issues-leetcode/issues/42)
-- [x] [94. 二叉树的中序遍历](https://github.com/winterggg/github-issues-leetcode/issues/40)
-- [x] [124. 二叉树中的最大路径和](https://github.com/winterggg/github-issues-leetcode/issues/39)
-- [x] [143. 重排链表](https://github.com/winterggg/github-issues-leetcode/issues/38)
-- [x] [42. 接雨水](https://github.com/winterggg/github-issues-leetcode/issues/37)
-- [x] [300. 最长递增子序列](https://github.com/winterggg/github-issues-leetcode/issues/36)
-- [x] [142. 环形链表 II](https://github.com/winterggg/github-issues-leetcode/issues/35)
 
 ## 资料
 
