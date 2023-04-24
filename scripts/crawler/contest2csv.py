@@ -6,6 +6,11 @@ import os
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
+# Check if contests.json exists
+if not os.path.exists("./contests.json"):
+    print("contests.json not found. Please run contest.py first.")
+    exit(1)
+
 # Load contests data
 with open("./contests.json", "r", encoding="utf-8") as f:
     contests = json.load(f)
