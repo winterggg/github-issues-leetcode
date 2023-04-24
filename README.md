@@ -10,12 +10,14 @@
 
 |          | 04.24 | 04.25 | 04.26 | 04.27 | 04.28 | 04.29 | 04.30 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | - | - | - | - | - | - | - |
+| 刷题量 | 2 | - | - | - | - | - | - |
 | 复习量 | - | - | - | - | - | - | - |
-|        |   | **本周复习** | 0 | **本周刷题** | 0 | **连续打卡** | 11 |
+|        |   | **本周复习** | 0 | **本周刷题** | 2 | **连续打卡** | 12 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [6392. 使数组所有元素变成 1 的最少操作次数](https://github.com/winterggg/github-issues-leetcode/issues/70)
+- [ ] [6390. 滑动子数组的美丽值](https://github.com/winterggg/github-issues-leetcode/issues/69)
 - [ ] [2646. 最小化旅行的价格总和](https://github.com/winterggg/github-issues-leetcode/issues/68)
 - [ ] [2645. 构造有效字符串的最少插入数](https://github.com/winterggg/github-issues-leetcode/issues/67)
 - [ ] [154. 寻找旋转排序数组中的最小值 II](https://github.com/winterggg/github-issues-leetcode/issues/66)
@@ -45,6 +47,7 @@
 
 ## 资料
 
+- LeetCode 周赛预估难度分：[leetcode_problem_rating](https://zerotrac.github.io/leetcode_problem_rating)
 - 周赛、基础知识视频讲解：[灵茶山艾府的个人空间_bilibili](https://space.bilibili.com/206214/channel/series)
 - [Codetop 高频题清单](./CodeTop题库.csv)
 - [周赛题清单](./scripts/crawler/weekly_contests.csv)
@@ -56,6 +59,7 @@
 - [x] Github Actions 每天生成 md 文件
 - [x] Github Actions 生成 README.md
 - [x] 写一个爬虫，爬取所有 Leetcode 周赛的题目
+- [ ] 修改爬虫，加上零神的[预估难度分](https://zerotrac.github.io/leetcode_problem_rating)
 - [ ] 使用 Next.js 制作刷题笔记静态页面生成器
 - [ ] 建立索引，实现全文搜索功能
 
