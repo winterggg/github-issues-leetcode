@@ -118,17 +118,21 @@ def count_streak_days(mappings):
         date -= datetime.timedelta(days=1)
     return streak
 
+def count_total_issues(mappings):
+    return sum(mappings.values())
+
 streak = count_streak_days(mappings)
 
 # 生成 markdown 表格
 def generate_table(mappings, review_issues, streak):
     dates = WEEK_DATES
-    total_count = sum([mappings.get(date.strftime('%Y/%m/%d'), 0) for date in dates])
+    total_week_count = sum([mappings.get(date.strftime('%Y/%m/%d'), 0) for date in dates])
+    total_count = count_total_issues(mappings)
     table = ['|          | {} |'.format(' | '.join([date.strftime('%m.%d') for date in dates]))]
     table.append('| :--------: | {} |'.format(' | '.join([':---:' for _ in dates])))
     table.append('| 刷题量 | {} |'.format(' | '.join([str(mappings.get(date.strftime('%Y/%m/%d'), '-')) for date in dates])))
     table.append('| 复习量 | {} |'.format(' | '.join([str(review_issues.get(date.strftime('%Y/%m/%d'), '-')) for date in dates])))
-    table.append('|        | {} |'.format(' | '.join([' ' for _ in range(len(dates)-6)] + [f'**本周复习** | { sum([ review_issues.get(date.strftime("%Y/%m/%d"), 0) for date in dates ]) }', f'**本周刷题** | {total_count}', f'**连续打卡** | {streak}'])))
+    table.append(f'| **本周刷题** | {total_week_count} 道 | **本周复习** | { sum([ review_issues.get(date.strftime("%Y/%m/%d"), 0) for date in dates ]) } 道 | **连续打卡** | {streak} 天 | **历史刷题** | {total_count} 道 |')
     return table
 
 def generate_starred_list(starred_issues):
