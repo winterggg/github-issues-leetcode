@@ -11,8 +11,8 @@
 |          | 04.24 | 04.25 | 04.26 | 04.27 | 04.28 | 04.29 | 04.30 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 刷题量 | 2 | 1 | - | - | - | - | - |
-| 复习量 | 5 | 2 | - | - | - | - | - |
-| **本周刷题** | 3 道 | **本周复习** | 7 道 | **连续打卡** | 13 天 | **历史刷题** | 70 道 |
+| 复习量 | 5 | 5 | - | - | - | - | - |
+| **本周刷题** | 3 道 | **本周复习** | 10 道 | **连续打卡** | 13 天 | **历史刷题** | 70 道 |
 
 ## 近一周星标（复习清单）
 
@@ -32,11 +32,11 @@
 - [ ] [93. 复原 IP 地址](https://github.com/winterggg/github-issues-leetcode/issues/56)
 - [ ] [1143. 最长公共子序列](https://github.com/winterggg/github-issues-leetcode/issues/52)
 - [ ] [31. 下一个排列](https://github.com/winterggg/github-issues-leetcode/issues/51)
-- [ ] [82. 删除排序链表中的重复元素 II](https://github.com/winterggg/github-issues-leetcode/issues/50)
+- [x] [82. 删除排序链表中的重复元素 II](https://github.com/winterggg/github-issues-leetcode/issues/50)
 - [x] [148. 排序链表](https://github.com/winterggg/github-issues-leetcode/issues/49)
 - [x] [56. 合并区间](https://github.com/winterggg/github-issues-leetcode/issues/48)
-- [ ] [199. 二叉树的右视图](https://github.com/winterggg/github-issues-leetcode/issues/46)
-- [ ] [4. 寻找两个正序数组的中位数](https://github.com/winterggg/github-issues-leetcode/issues/45)
+- [x] [199. 二叉树的右视图](https://github.com/winterggg/github-issues-leetcode/issues/46)
+- [x] [4. 寻找两个正序数组的中位数](https://github.com/winterggg/github-issues-leetcode/issues/45)
 
 ## 资料
 
