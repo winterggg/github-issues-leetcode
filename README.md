@@ -33,10 +33,6 @@
 - [ ] [1143. 最长公共子序列](https://github.com/winterggg/github-issues-leetcode/issues/52)
 - [ ] [31. 下一个排列](https://github.com/winterggg/github-issues-leetcode/issues/51)
 - [x] [82. 删除排序链表中的重复元素 II](https://github.com/winterggg/github-issues-leetcode/issues/50)
-- [x] [148. 排序链表](https://github.com/winterggg/github-issues-leetcode/issues/49)
-- [x] [56. 合并区间](https://github.com/winterggg/github-issues-leetcode/issues/48)
-- [x] [199. 二叉树的右视图](https://github.com/winterggg/github-issues-leetcode/issues/46)
-- [x] [4. 寻找两个正序数组的中位数](https://github.com/winterggg/github-issues-leetcode/issues/45)
 
 ## 资料
 
