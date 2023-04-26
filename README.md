@@ -31,9 +31,6 @@
 - [ ] [41. 缺失的第一个正数](https://github.com/winterggg/github-issues-leetcode/issues/58)
 - [ ] [8. 字符串转换整数 (atoi)](https://github.com/winterggg/github-issues-leetcode/issues/57)
 - [ ] [93. 复原 IP 地址](https://github.com/winterggg/github-issues-leetcode/issues/56)
-- [x] [1143. 最长公共子序列](https://github.com/winterggg/github-issues-leetcode/issues/52)
-- [x] [31. 下一个排列](https://github.com/winterggg/github-issues-leetcode/issues/51)
-- [x] [82. 删除排序链表中的重复元素 II](https://github.com/winterggg/github-issues-leetcode/issues/50)
 
 ## 资料
 
