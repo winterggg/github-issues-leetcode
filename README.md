@@ -10,12 +10,13 @@
 
 |          | 04.24 | 04.25 | 04.26 | 04.27 | 04.28 | 04.29 | 04.30 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 2 | 1 | - | - | - | - | - |
-| 复习量 | 5 | 5 | - | - | - | - | - |
-| **本周刷题** | 3 道 | **本周复习** | 10 道 | **连续打卡** | 13 天 | **历史刷题** | 70 道 |
+| 刷题量 | 2 | 1 | 1 | - | - | - | - |
+| 复习量 | 5 | 5 | 2 | - | - | - | - |
+| **本周刷题** | 4 道 | **本周复习** | 12 道 | **连续打卡** | 14 天 | **历史刷题** | 71 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2642. 设计可以求最短路径的图类](https://github.com/winterggg/github-issues-leetcode/issues/72)
 - [ ] [6392. 使数组所有元素变成 1 的最少操作次数](https://github.com/winterggg/github-issues-leetcode/issues/70)
 - [ ] [6390. 滑动子数组的美丽值](https://github.com/winterggg/github-issues-leetcode/issues/69)
 - [ ] [2646. 最小化旅行的价格总和](https://github.com/winterggg/github-issues-leetcode/issues/68)
@@ -30,8 +31,8 @@
 - [ ] [41. 缺失的第一个正数](https://github.com/winterggg/github-issues-leetcode/issues/58)
 - [ ] [8. 字符串转换整数 (atoi)](https://github.com/winterggg/github-issues-leetcode/issues/57)
 - [ ] [93. 复原 IP 地址](https://github.com/winterggg/github-issues-leetcode/issues/56)
-- [ ] [1143. 最长公共子序列](https://github.com/winterggg/github-issues-leetcode/issues/52)
-- [ ] [31. 下一个排列](https://github.com/winterggg/github-issues-leetcode/issues/51)
+- [x] [1143. 最长公共子序列](https://github.com/winterggg/github-issues-leetcode/issues/52)
+- [x] [31. 下一个排列](https://github.com/winterggg/github-issues-leetcode/issues/51)
 - [x] [82. 删除排序链表中的重复元素 II](https://github.com/winterggg/github-issues-leetcode/issues/50)
 
 ## 资料
