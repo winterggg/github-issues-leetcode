@@ -28,10 +28,6 @@
 - [ ] [105. 从前序与中序遍历序列构造二叉树](https://github.com/winterggg/github-issues-leetcode/issues/63)
 - [ ] [165. 比较版本号](https://github.com/winterggg/github-issues-leetcode/issues/62)
 - [ ] [76. 最小覆盖子串](https://github.com/winterggg/github-issues-leetcode/issues/61)
-- [x] [239. 滑动窗口最大值](https://github.com/winterggg/github-issues-leetcode/issues/59)
-- [x] [41. 缺失的第一个正数](https://github.com/winterggg/github-issues-leetcode/issues/58)
-- [x] [8. 字符串转换整数 (atoi)](https://github.com/winterggg/github-issues-leetcode/issues/57)
-- [x] [93. 复原 IP 地址](https://github.com/winterggg/github-issues-leetcode/issues/56)
 
 ## 资料
 
