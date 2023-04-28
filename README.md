@@ -10,12 +10,13 @@
 
 |          | 04.24 | 04.25 | 04.26 | 04.27 | 04.28 | 04.29 | 04.30 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 2 | 1 | 1 | 1 | - | - | - |
-| 复习量 | 5 | 5 | 2 | 4 | - | - | - |
-| **本周刷题** | 5 道 | **本周复习** | 16 道 | **连续打卡** | 15 天 | **历史刷题** | 72 道 |
+| 刷题量 | 2 | 1 | 1 | 1 | 1 | - | - |
+| 复习量 | 5 | 5 | 2 | 4 | 3 | - | - |
+| **本周刷题** | 6 道 | **本周复习** | 19 道 | **连续打卡** | 16 天 | **历史刷题** | 73 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2616. 最小化数对的最大差值](https://github.com/winterggg/github-issues-leetcode/issues/74)
 - [ ] [2615. 等值距离和](https://github.com/winterggg/github-issues-leetcode/issues/73)
 - [ ] [2642. 设计可以求最短路径的图类](https://github.com/winterggg/github-issues-leetcode/issues/72)
 - [ ] [6392. 使数组所有元素变成 1 的最少操作次数](https://github.com/winterggg/github-issues-leetcode/issues/70)
@@ -24,10 +25,10 @@
 - [ ] [2645. 构造有效字符串的最少插入数](https://github.com/winterggg/github-issues-leetcode/issues/67)
 - [ ] [154. 寻找旋转排序数组中的最小值 II](https://github.com/winterggg/github-issues-leetcode/issues/66)
 - [ ] [670. 最大交换](https://github.com/winterggg/github-issues-leetcode/issues/65)
-- [ ] [151. 反转字符串中的单词](https://github.com/winterggg/github-issues-leetcode/issues/64)
+- [x] [151. 反转字符串中的单词](https://github.com/winterggg/github-issues-leetcode/issues/64)
 - [ ] [105. 从前序与中序遍历序列构造二叉树](https://github.com/winterggg/github-issues-leetcode/issues/63)
-- [ ] [165. 比较版本号](https://github.com/winterggg/github-issues-leetcode/issues/62)
-- [ ] [76. 最小覆盖子串](https://github.com/winterggg/github-issues-leetcode/issues/61)
+- [x] [165. 比较版本号](https://github.com/winterggg/github-issues-leetcode/issues/62)
+- [x] [76. 最小覆盖子串](https://github.com/winterggg/github-issues-leetcode/issues/61)
 
 ## 资料
 
