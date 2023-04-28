@@ -11,8 +11,8 @@
 |          | 04.24 | 04.25 | 04.26 | 04.27 | 04.28 | 04.29 | 04.30 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 刷题量 | 2 | 1 | 1 | 1 | 1 | - | - |
-| 复习量 | 5 | 5 | 2 | 4 | 3 | - | - |
-| **本周刷题** | 6 道 | **本周复习** | 19 道 | **连续打卡** | 16 天 | **历史刷题** | 73 道 |
+| 复习量 | 5 | 5 | 2 | 4 | 4 | - | - |
+| **本周刷题** | 6 道 | **本周复习** | 20 道 | **连续打卡** | 16 天 | **历史刷题** | 73 道 |
 
 ## 近一周星标（复习清单）
 
@@ -26,7 +26,7 @@
 - [ ] [154. 寻找旋转排序数组中的最小值 II](https://github.com/winterggg/github-issues-leetcode/issues/66)
 - [ ] [670. 最大交换](https://github.com/winterggg/github-issues-leetcode/issues/65)
 - [x] [151. 反转字符串中的单词](https://github.com/winterggg/github-issues-leetcode/issues/64)
-- [ ] [105. 从前序与中序遍历序列构造二叉树](https://github.com/winterggg/github-issues-leetcode/issues/63)
+- [x] [105. 从前序与中序遍历序列构造二叉树](https://github.com/winterggg/github-issues-leetcode/issues/63)
 - [x] [165. 比较版本号](https://github.com/winterggg/github-issues-leetcode/issues/62)
 - [x] [76. 最小覆盖子串](https://github.com/winterggg/github-issues-leetcode/issues/61)
 
