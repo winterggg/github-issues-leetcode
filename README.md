@@ -25,10 +25,6 @@
 - [ ] [2645. 构造有效字符串的最少插入数](https://github.com/winterggg/github-issues-leetcode/issues/67)
 - [ ] [154. 寻找旋转排序数组中的最小值 II](https://github.com/winterggg/github-issues-leetcode/issues/66)
 - [ ] [670. 最大交换](https://github.com/winterggg/github-issues-leetcode/issues/65)
-- [x] [151. 反转字符串中的单词](https://github.com/winterggg/github-issues-leetcode/issues/64)
-- [x] [105. 从前序与中序遍历序列构造二叉树](https://github.com/winterggg/github-issues-leetcode/issues/63)
-- [x] [165. 比较版本号](https://github.com/winterggg/github-issues-leetcode/issues/62)
-- [x] [76. 最小覆盖子串](https://github.com/winterggg/github-issues-leetcode/issues/61)
 
 ## 资料
 
