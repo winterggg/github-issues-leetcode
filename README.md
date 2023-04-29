@@ -24,8 +24,6 @@
 - [ ] [6390. 滑动子数组的美丽值](https://github.com/winterggg/github-issues-leetcode/issues/69)
 - [ ] [2646. 最小化旅行的价格总和](https://github.com/winterggg/github-issues-leetcode/issues/68)
 - [ ] [2645. 构造有效字符串的最少插入数](https://github.com/winterggg/github-issues-leetcode/issues/67)
-- [x] [154. 寻找旋转排序数组中的最小值 II](https://github.com/winterggg/github-issues-leetcode/issues/66)
-- [x] [670. 最大交换](https://github.com/winterggg/github-issues-leetcode/issues/65)
 
 ## 资料
 
