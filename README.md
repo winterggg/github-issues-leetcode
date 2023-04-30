@@ -10,9 +10,9 @@
 
 |          | 04.24 | 04.25 | 04.26 | 04.27 | 04.28 | 04.29 | 04.30 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 2 | 1 | 1 | 1 | 1 | 1 | - |
-| 复习量 | 5 | 5 | 2 | 4 | 4 | 2 | - |
-| **本周刷题** | 7 道 | **本周复习** | 22 道 | **连续打卡** | 17 天 | **历史刷题** | 74 道 |
+| 刷题量 | 2 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 复习量 | 5 | 5 | 2 | 4 | 4 | 2 | 2 |
+| **本周刷题** | 8 道 | **本周复习** | 24 道 | **连续打卡** | 18 天 | **历史刷题** | 75 道 |
 
 ## 近一周星标（复习清单）
 
@@ -22,8 +22,8 @@
 - [ ] [2642. 设计可以求最短路径的图类](https://github.com/winterggg/github-issues-leetcode/issues/72)
 - [ ] [6392. 使数组所有元素变成 1 的最少操作次数](https://github.com/winterggg/github-issues-leetcode/issues/70)
 - [ ] [6390. 滑动子数组的美丽值](https://github.com/winterggg/github-issues-leetcode/issues/69)
-- [ ] [2646. 最小化旅行的价格总和](https://github.com/winterggg/github-issues-leetcode/issues/68)
-- [ ] [2645. 构造有效字符串的最少插入数](https://github.com/winterggg/github-issues-leetcode/issues/67)
+- [x] [2646. 最小化旅行的价格总和](https://github.com/winterggg/github-issues-leetcode/issues/68)
+- [x] [2645. 构造有效字符串的最少插入数](https://github.com/winterggg/github-issues-leetcode/issues/67)
 
 ## 资料
 
