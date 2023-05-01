@@ -21,8 +21,6 @@
 - [ ] [2616. 最小化数对的最大差值](https://github.com/winterggg/github-issues-leetcode/issues/74)
 - [ ] [2615. 等值距离和](https://github.com/winterggg/github-issues-leetcode/issues/73)
 - [ ] [2642. 设计可以求最短路径的图类](https://github.com/winterggg/github-issues-leetcode/issues/72)
-- [ ] [6392. 使数组所有元素变成 1 的最少操作次数](https://github.com/winterggg/github-issues-leetcode/issues/70)
-- [ ] [6390. 滑动子数组的美丽值](https://github.com/winterggg/github-issues-leetcode/issues/69)
 
 ## 资料
 
