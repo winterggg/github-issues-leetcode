@@ -10,12 +10,13 @@
 
 |          | 05.01 | 05.02 | 05.03 | 05.04 | 05.05 | 05.06 | 05.07 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | - | - | - | - | - | - | - |
+| 刷题量 | 1 | - | - | - | - | - | - |
 | 复习量 | - | - | - | - | - | - | - |
-| **本周刷题** | 0 道 | **本周复习** | 0 道 | **连续打卡** | 18 天 | **历史刷题** | 75 道 |
+| **本周刷题** | 1 道 | **本周复习** | 0 道 | **连续打卡** | 19 天 | **历史刷题** | 76 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2612. 最少翻转操作数](https://github.com/winterggg/github-issues-leetcode/issues/77)
 - [ ] [2617. 网格图中最少访问的格子数](https://github.com/winterggg/github-issues-leetcode/issues/75)
 - [ ] [2616. 最小化数对的最大差值](https://github.com/winterggg/github-issues-leetcode/issues/74)
 - [ ] [2615. 等值距离和](https://github.com/winterggg/github-issues-leetcode/issues/73)
