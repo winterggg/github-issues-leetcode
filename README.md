@@ -21,7 +21,6 @@
 - [ ] [2612. 最少翻转操作数](https://github.com/winterggg/github-issues-leetcode/issues/77)
 - [ ] [2617. 网格图中最少访问的格子数](https://github.com/winterggg/github-issues-leetcode/issues/75)
 - [ ] [2616. 最小化数对的最大差值](https://github.com/winterggg/github-issues-leetcode/issues/74)
-- [ ] [2615. 等值距离和](https://github.com/winterggg/github-issues-leetcode/issues/73)
 
 ## 资料
 
