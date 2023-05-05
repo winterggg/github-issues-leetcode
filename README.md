@@ -10,12 +10,13 @@
 
 |          | 05.01 | 05.02 | 05.03 | 05.04 | 05.05 | 05.06 | 05.07 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 1 | 1 | 1 | 1 | - | - | - |
+| 刷题量 | 1 | 1 | 1 | 1 | 1 | - | - |
 | 复习量 | - | - | 1 | - | - | - | - |
-| **本周刷题** | 4 道 | **本周复习** | 1 道 | **连续打卡** | 22 天 | **历史刷题** | 79 道 |
+| **本周刷题** | 5 道 | **本周复习** | 1 道 | **连续打卡** | 23 天 | **历史刷题** | 80 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2601. 质数减法运算](https://github.com/winterggg/github-issues-leetcode/issues/81)
 - [ ] [2608. 图中的最短环](https://github.com/winterggg/github-issues-leetcode/issues/80)
 - [ ] [2607. 使子数组元素和相等](https://github.com/winterggg/github-issues-leetcode/issues/79)
 - [ ] [2612. 最少翻转操作数](https://github.com/winterggg/github-issues-leetcode/issues/77)
