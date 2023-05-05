@@ -21,7 +21,6 @@
 - [ ] [2607. 使子数组元素和相等](https://github.com/winterggg/github-issues-leetcode/issues/79)
 - [ ] [2612. 最少翻转操作数](https://github.com/winterggg/github-issues-leetcode/issues/77)
 - [ ] [2617. 网格图中最少访问的格子数](https://github.com/winterggg/github-issues-leetcode/issues/75)
-- [ ] [2616. 最小化数对的最大差值](https://github.com/winterggg/github-issues-leetcode/issues/74)
 
 ## 资料
 
