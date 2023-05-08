@@ -22,7 +22,6 @@
 - [ ] [2601. 质数减法运算](https://github.com/winterggg/github-issues-leetcode/issues/81)
 - [ ] [2608. 图中的最短环](https://github.com/winterggg/github-issues-leetcode/issues/80)
 - [ ] [2607. 使子数组元素和相等](https://github.com/winterggg/github-issues-leetcode/issues/79)
-- [ ] [2612. 最少翻转操作数](https://github.com/winterggg/github-issues-leetcode/issues/77)
 
 ## 资料
 
