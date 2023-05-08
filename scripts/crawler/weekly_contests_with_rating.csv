@@ -1,8 +1,20 @@
 contest,title,english_title,rating,url
-第 342 场周赛,计算列车到站时间,Calculate Delayed Arrival Time,-1,https://leetcode.cn/problems/calculate-delayed-arrival-time/
-第 342 场周赛,倍数求和,Sum Multiples,-1,https://leetcode.cn/problems/sum-multiples/
-第 342 场周赛,滑动子数组的美丽值,Sliding Subarray Beauty,-1,https://leetcode.cn/problems/sliding-subarray-beauty/
-第 342 场周赛,使数组所有元素变成 1 的最少操作次数,Minimum Number of Operations to Make All Array Elements Equal to 1,-1,https://leetcode.cn/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/
+第 344 场周赛,找出不同元素数目差数组,Find the Distinct Difference Array,-1,https://leetcode.cn/problems/find-the-distinct-difference-array/
+第 344 场周赛,频率跟踪器,Frequency Tracker,-1,https://leetcode.cn/problems/frequency-tracker/
+第 344 场周赛,有相同颜色的相邻元素数目,Number of Adjacent Elements With the Same Color,-1,https://leetcode.cn/problems/number-of-adjacent-elements-with-the-same-color/
+第 344 场周赛,使二叉树所有路径值相等的最小代价,Make Costs of Paths Equal in a Binary Tree,-1,https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/
+第 343 场周赛,保龄球游戏的获胜者,Determine the Winner of a Bowling Game,-1,https://leetcode.cn/problems/determine-the-winner-of-a-bowling-game/
+第 343 场周赛,找出叠涂元素,First Completely Painted Row or Column,-1,https://leetcode.cn/problems/first-completely-painted-row-or-column/
+第 343 场周赛,前往目标的最小代价,Minimum Cost of a Path With Special Roads,-1,https://leetcode.cn/problems/minimum-cost-of-a-path-with-special-roads/
+第 343 场周赛,字典序最小的美丽字符串,Lexicographically Smallest Beautiful String,-1,https://leetcode.cn/problems/lexicographically-smallest-beautiful-string/
+第 103 场双周赛,K 个元素的最大和,Maximum Sum With Exactly K Elements ,1213.4070467355,https://leetcode.cn/problems/maximum-sum-with-exactly-k-elements/
+第 103 场双周赛,找到两个数组的前缀公共数组,Find the Prefix Common Array of Two Arrays,1304.1180812515,https://leetcode.cn/problems/find-the-prefix-common-array-of-two-arrays/
+第 103 场双周赛,网格图中鱼的最大数目,Maximum Number of Fish in a Grid,1489.7210915287,https://leetcode.cn/problems/maximum-number-of-fish-in-a-grid/
+第 103 场双周赛,将数组清空,Make Array Empty,2281.8816902545,https://leetcode.cn/problems/make-array-empty/
+第 342 场周赛,计算列车到站时间,Calculate Delayed Arrival Time,1168.6157473032,https://leetcode.cn/problems/calculate-delayed-arrival-time/
+第 342 场周赛,倍数求和,Sum Multiples,1182.3093772964,https://leetcode.cn/problems/sum-multiples/
+第 342 场周赛,滑动子数组的美丽值,Sliding Subarray Beauty,1785.6006955353,https://leetcode.cn/problems/sliding-subarray-beauty/
+第 342 场周赛,使数组所有元素变成 1 的最少操作次数,Minimum Number of Operations to Make All Array Elements Equal to 1,1928.7961204946,https://leetcode.cn/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/
 第 341 场周赛,一最多的行,Row With Maximum Ones,1174.3019990918,https://leetcode.cn/problems/row-with-maximum-ones/
 第 341 场周赛,找出可整除性得分最大的整数,Find the Maximum Divisibility Score,1257.8344655358,https://leetcode.cn/problems/find-the-maximum-divisibility-score/
 第 341 场周赛,构造有效字符串的最少插入数,Minimum Additions to Make Valid String,1477.7669322402,https://leetcode.cn/problems/minimum-additions-to-make-valid-string/
@@ -402,7 +414,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 281 场周赛,统计可以被 K 整除的下标对数目,Count Array Pairs Divisible by K,2246.0452639352,https://leetcode.cn/problems/count-array-pairs-divisible-by-k/
 第 72 场双周赛,统计数组中相等且可以被整除的数对,Count Equal and Divisible Pairs in an Array,1215.7827321325,https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/
 第 72 场双周赛,找到和为给定整数的三个连续整数,Find Three Consecutive Integers That Sum to a Given Number,1257.1556875655,https://leetcode.cn/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
-第 72 场双周赛,拆分成最多数目的偶整数之和,Maximum Split of Positive Even Integers,1538.233149704,https://leetcode.cn/problems/maximum-split-of-positive-even-integers/
+第 72 场双周赛,拆分成最多数目的正偶数之和,Maximum Split of Positive Even Integers,1538.233149704,https://leetcode.cn/problems/maximum-split-of-positive-even-integers/
 第 72 场双周赛,统计数组中好三元组数目,Count Good Triplets in an Array,2272.4412003208,https://leetcode.cn/problems/count-good-triplets-in-an-array/
 第 280 场周赛,得到 0 的操作数,Count Operations to Obtain Zero,1199.8592887103,https://leetcode.cn/problems/count-operations-to-obtain-zero/
 第 280 场周赛,使数组变成交替数组的最少操作数,Minimum Operations to Make the Array Alternating,1662.6673692545,https://leetcode.cn/problems/minimum-operations-to-make-the-array-alternating/
@@ -473,7 +485,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 269 场周赛,从数组中移除最大值和最小值,Removing Minimum and Maximum From Array,1384.0226911434,https://leetcode.cn/problems/removing-minimum-and-maximum-from-array/
 第 269 场周赛,找出知晓秘密的所有专家,Find All People With Secret,2003.5794613668,https://leetcode.cn/problems/find-all-people-with-secret/
 第 66 场双周赛,统计出现过一次的公共字符串,Count Common Words With One Occurrence,1307.4608905199,https://leetcode.cn/problems/count-common-words-with-one-occurrence/
-第 66 场双周赛,从房屋收集雨水需要的最少水桶数,Minimum Number of Buckets Required to Collect Rainwater from Houses,-1,https://leetcode.cn/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/
+第 66 场双周赛,从房屋收集雨水需要的最少水桶数,Minimum Number of Food Buckets to Feed the Hamsters,1622.8414025136,https://leetcode.cn/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/
 第 66 场双周赛,网格图中机器人回家的最小代价,Minimum Cost Homecoming of a Robot in a Grid,1743.731976554,https://leetcode.cn/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
 第 66 场双周赛,统计农场中肥沃金字塔的数目,Count Fertile Pyramids in a Land,2104.7441214305,https://leetcode.cn/problems/count-fertile-pyramids-in-a-land/
 第 268 场周赛,两栋颜色不同且距离最远的房子,Two Furthest Houses With Different Colors,1240.829758176,https://leetcode.cn/problems/two-furthest-houses-with-different-colors/
@@ -728,7 +740,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 46 场双周赛,地图中的最高点,Map of Highest Peak,1782.9801784101,https://leetcode.cn/problems/map-of-highest-peak/
 第 46 场双周赛,互质树,Tree of Coprimes,2231.8099102949,https://leetcode.cn/problems/tree-of-coprimes/
 第 228 场周赛,生成交替二进制字符串的最少操作数,Minimum Changes To Make Alternating Binary String,1353.629677812,https://leetcode.cn/problems/minimum-changes-to-make-alternating-binary-string/
-第 228 场周赛,统计同构子字符串的数目,Count Number of Homogenous Substrings,1490.8990184504,https://leetcode.cn/problems/count-number-of-homogenous-substrings/
+第 228 场周赛,统计同质子字符串的数目,Count Number of Homogenous Substrings,1490.8990184504,https://leetcode.cn/problems/count-number-of-homogenous-substrings/
 第 228 场周赛,袋子里最少数目的球,Minimum Limit of Balls in a Bag,1939.9323330472,https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/
 第 228 场周赛,一个图中连通三元组的最小度数,Minimum Degree of a Connected Trio in a Graph,2005.2755755378,https://leetcode.cn/problems/minimum-degree-of-a-connected-trio-in-a-graph/
 第 227 场周赛,检查数组是否经排序和轮转得到,Check if Array Is Sorted and Rotated,1324.5320836804,https://leetcode.cn/problems/check-if-array-is-sorted-and-rotated/
@@ -820,7 +832,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 213 场周赛,可以到达的最远建筑,Furthest Building You Can Reach,1962.2005269503,https://leetcode.cn/problems/furthest-building-you-can-reach/
 第 213 场周赛,第 K 条最小指令,Kth Smallest Instructions,2079.9846866239,https://leetcode.cn/problems/kth-smallest-instructions/
 第 38 场双周赛,按照频率将数组升序排序,Sort Array by Increasing Frequency,1430.3429533629,https://leetcode.cn/problems/sort-array-by-increasing-frequency/
-第 38 场双周赛,两点之间不包含任何点的最宽垂直面积,Widest Vertical Area Between Two Points Containing No Points,1486.764933431,https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points/
+第 38 场双周赛,两点之间不包含任何点的最宽垂直区域,Widest Vertical Area Between Two Points Containing No Points,1486.764933431,https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points/
 第 38 场双周赛,统计只差一个字符的子串数目,Count Substrings That Differ by One Character,1744.7611048301,https://leetcode.cn/problems/count-substrings-that-differ-by-one-character/
 第 38 场双周赛,通过给定词典构造目标字符串的方案数,Number of Ways to Form a Target String Given a Dictionary,2081.6909344021,https://leetcode.cn/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
 第 212 场周赛,按键持续时间最长的键,Slowest Key,1315.3715333947,https://leetcode.cn/problems/slowest-key/
@@ -849,7 +861,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 36 场双周赛,找到处理最多请求的服务器,Find Servers That Handled Most Number of Requests,2275.7337818748,https://leetcode.cn/problems/find-servers-that-handled-most-number-of-requests/
 第 208 场周赛,文件夹操作日志搜集器,Crawler Log Folder,1297.3006230632,https://leetcode.cn/problems/crawler-log-folder/
 第 208 场周赛,经营摩天轮的最大利润,Maximum Profit of Operating a Centennial Wheel,1548.0854419238,https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel/
-第 208 场周赛,皇位继承顺序,Throne Inheritance,1768.623896829,https://leetcode.cn/problems/throne-inheritance/
+第 208 场周赛,王位继承顺序,Throne Inheritance,1768.623896829,https://leetcode.cn/problems/throne-inheritance/
 第 208 场周赛,最多可达成的换楼请求数目,Maximum Number of Achievable Transfer Requests,2118.7923652824,https://leetcode.cn/problems/maximum-number-of-achievable-transfer-requests/
 第 207 场周赛,重新排列单词间的空格,Rearrange Spaces Between Words,1362.6613797387,https://leetcode.cn/problems/rearrange-spaces-between-words/
 第 207 场周赛,拆分字符串使唯一子字符串的数目最大,Split a String Into the Max Number of Unique Substrings,1739.5831401172,https://leetcode.cn/problems/split-a-string-into-the-max-number-of-unique-substrings/
@@ -865,7 +877,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 206 场周赛,检查字符串是否可以通过排序子字符串得到另一个字符串,Check If String Is Transformable With Substring Sort Operations,2333.0078041754,https://leetcode.cn/problems/check-if-string-is-transformable-with-substring-sort-operations/
 第 205 场周赛,替换所有的问号,Replace All ?'s to Avoid Consecutive Repeating Characters,1368.0043517215,https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 第 205 场周赛,数的平方等于两数乘积的方法数,Number of Ways Where Square of Number Is Equal to Product of Two Numbers,1593.8926580448,https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
-第 205 场周赛,避免重复字母的最小删除成本,Minimum Deletion Cost to Avoid Repeating Letters,-1,https://leetcode.cn/problems/minimum-deletion-cost-to-avoid-repeating-letters/
+第 205 场周赛,使绳子变成彩色的最短时间,Minimum Time to Make Rope Colorful,1574.0392121288,https://leetcode.cn/problems/minimum-time-to-make-rope-colorful/
 第 205 场周赛,保证图可完全遍历,Remove Max Number of Edges to Keep Graph Fully Traversable,2131.7917160422,https://leetcode.cn/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 第 34 场双周赛,矩阵对角线元素的和,Matrix Diagonal Sum,1280.2941647587,https://leetcode.cn/problems/matrix-diagonal-sum/
 第 34 场双周赛,分割字符串的方案数,Number of Ways to Split a String,1590.547713663,https://leetcode.cn/problems/number-of-ways-to-split-a-string/
@@ -874,7 +886,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 204 场周赛,重复至少 K 次且长度为 M 的模式,Detect Pattern of Length M Repeated K or More Times,1486.4687014051,https://leetcode.cn/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 第 204 场周赛,乘积为正数的最长子数组长度,Maximum Length of Subarray With Positive Product,1710.3243520032,https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/
 第 204 场周赛,使陆地分离的最少天数,Minimum Number of Days to Disconnect Island,2208.5532172086,https://leetcode.cn/problems/minimum-number-of-days-to-disconnect-island/
-第 204 场周赛,将子数组重新排序得到同一个二叉查找树的方案数,Number of Ways to Reorder Array to Get Same BST,2288.2117442123,https://leetcode.cn/problems/number-of-ways-to-reorder-array-to-get-same-bst/
+第 204 场周赛,将子数组重新排序得到同一个二叉搜索树的方案数,Number of Ways to Reorder Array to Get Same BST,2288.2117442123,https://leetcode.cn/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 第 203 场周赛,圆形赛道上经过次数最多的扇区,Most Visited Sector in  a Circular Track,1443.2353621969,https://leetcode.cn/problems/most-visited-sector-in-a-circular-track/
 第 203 场周赛,你可以获得的最大硬币数目,Maximum Number of Coins You Can Get,1405.5786892723,https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/
 第 203 场周赛,查找大小为 M 的最新分组,Find Latest Group of Size M,1928.2304187946,https://leetcode.cn/problems/find-latest-group-of-size-m/
@@ -889,7 +901,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 202 场周赛,吃掉 N 个橘子的最少天数,Minimum Number of Days to Eat N Oranges,2048.0976546787,https://leetcode.cn/problems/minimum-number-of-days-to-eat-n-oranges/
 第 201 场周赛,整理字符串,Make The String Great,1344.226133202,https://leetcode.cn/problems/make-the-string-great/
 第 201 场周赛,找出第 N 个二进制字符串中的第 K 位,Find Kth Bit in Nth Binary String,1479.4837595809,https://leetcode.cn/problems/find-kth-bit-in-nth-binary-string/
-第 201 场周赛,和为目标值的最大数目不重叠非空子数组数目,Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,1855.377046154,https://leetcode.cn/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+第 201 场周赛,和为目标值且不重叠的非空子数组的最大数目,Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,1855.377046154,https://leetcode.cn/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 第 201 场周赛,切棍子的最小成本,Minimum Cost to Cut a Stick,2116.493528295,https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/
 第 32 场双周赛,第 k 个缺失的正整数,Kth Missing Positive Number,1295.4970938463,https://leetcode.cn/problems/kth-missing-positive-number/
 第 32 场双周赛,K 次操作转变字符串,Can Convert String in K Moves,1631.338145683,https://leetcode.cn/problems/can-convert-string-in-k-moves/
@@ -900,14 +912,14 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 200 场周赛,排布二进制网格的最少交换次数,Minimum Swaps to Arrange a Binary Grid,1880.5909929633,https://leetcode.cn/problems/minimum-swaps-to-arrange-a-binary-grid/
 第 200 场周赛,最大得分,Get the Maximum Score,1961.4987013156,https://leetcode.cn/problems/get-the-maximum-score/
 第 199 场周赛,重新排列字符串,Shuffle String,1193.1328299324,https://leetcode.cn/problems/shuffle-string/
-第 199 场周赛,灯泡开关 IV,Bulb Switcher IV,-1,https://leetcode.cn/problems/bulb-switcher-iv/
+第 199 场周赛,最少的后缀翻转次数,Minimum Suffix Flips,1392.6601629182,https://leetcode.cn/problems/minimum-suffix-flips/
 第 199 场周赛,好叶子节点对的数量,Number of Good Leaf Nodes Pairs,1745.6580748712,https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/
 第 199 场周赛,压缩字符串 II,String Compression II,2575.9570281316,https://leetcode.cn/problems/string-compression-ii/
 第 31 场双周赛,在区间范围内统计奇数数目,Count Odd Numbers in an Interval Range,1209.3722198224,https://leetcode.cn/problems/count-odd-numbers-in-an-interval-range/
 第 31 场双周赛,和为奇数的子数组数目,Number of Sub-arrays With Odd Sum,1610.569398159,https://leetcode.cn/problems/number-of-sub-arrays-with-odd-sum/
 第 31 场双周赛,字符串的好分割数目,Number of Good Ways to Split a String,1499.7136257352,https://leetcode.cn/problems/number-of-good-ways-to-split-a-string/
 第 31 场双周赛,形成目标数组的子数组最少增加次数,Minimum Number of Increments on Subarrays to Form a Target Array,1872.0350138774,https://leetcode.cn/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
-第 198 场周赛,换酒问题,Water Bottles,1245.2999833877,https://leetcode.cn/problems/water-bottles/
+第 198 场周赛,换水问题,Water Bottles,1245.2999833877,https://leetcode.cn/problems/water-bottles/
 第 198 场周赛,子树中标签相同的节点数,Number of Nodes in the Sub-Tree With the Same Label,1808.787108831,https://leetcode.cn/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
 第 198 场周赛,最多的不重叠子字符串,Maximum Number of Non-Overlapping Substrings,2362.6480880348,https://leetcode.cn/problems/maximum-number-of-non-overlapping-substrings/
 第 198 场周赛,找到最接近目标值的函数值,Find a Value of a Mysterious Function Closest to Target,2383.7724811656,https://leetcode.cn/problems/find-a-value-of-a-mysterious-function-closest-to-target/
@@ -951,7 +963,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 191 场周赛,切割后面积最大的蛋糕,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,1444.6098846511,https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 第 191 场周赛,重新规划路线,Reorder Routes to Make All Paths Lead to the City Zero,1633.6202302555,https://leetcode.cn/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 第 191 场周赛,两个盒子中球的颜色数相同的概率,Probability of a Two Boxes Having The Same Number of Distinct Balls,2356.5811122453,https://leetcode.cn/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
-第 27 场双周赛,通过翻转子数组使两个数组相等,Make Two Arrays Equal by Reversing Sub-arrays,-1,https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+第 27 场双周赛,通过翻转子数组使两个数组相等,Make Two Arrays Equal by Reversing Subarrays,1151.5250329621,https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-subarrays/
 第 27 场双周赛,检查一个字符串是否包含所有长度为 K 的二进制子串,Check If a String Contains All Binary Codes of Size K,1504.0178888667,https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 第 27 场双周赛,课程表 IV,Course Schedule IV,1692.5884631801,https://leetcode.cn/problems/course-schedule-iv/
 第 27 场双周赛,摘樱桃 II,Cherry Pickup II,1956.7059585934,https://leetcode.cn/problems/cherry-pickup-ii/
@@ -1020,7 +1032,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 180 场周赛,将二叉搜索树变平衡,Balance a Binary Search Tree,1540.5750839091,https://leetcode.cn/problems/balance-a-binary-search-tree/
 第 180 场周赛,最大的团队表现值,Maximum Performance of a Team,2091.3820373571,https://leetcode.cn/problems/maximum-performance-of-a-team/
 第 179 场周赛,生成每种字符都是奇数个的字符串,Generate a String With Characters That Have Odd Counts,1164.0227691933,https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/
-第 179 场周赛,灯泡开关 III,Bulb Switcher III,-1,https://leetcode.cn/problems/bulb-switcher-iii/
+第 179 场周赛,二进制字符串前缀一致的次数,Number of Times Binary String Is Prefix-Aligned,1438.8988489545,https://leetcode.cn/problems/number-of-times-binary-string-is-prefix-aligned/
 第 179 场周赛,通知所有员工所需的时间,Time Needed to Inform All Employees,1561.0553908973,https://leetcode.cn/problems/time-needed-to-inform-all-employees/
 第 179 场周赛,T 秒后青蛙的位置,Frog Position After T Seconds,1823.8779711373,https://leetcode.cn/problems/frog-position-after-t-seconds/
 第 21 场双周赛,上升下降字符串,Increasing Decreasing String,1369.0053354603,https://leetcode.cn/problems/increasing-decreasing-string/
@@ -1029,7 +1041,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 21 场双周赛,二叉搜索子树的最大键值和,Maximum Sum BST in Binary Tree,1913.6704728453,https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree/
 第 178 场周赛,有多少小于当前数字的数字,How Many Numbers Are Smaller Than the Current Number,1152.1377893605,https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/
 第 178 场周赛,通过投票对团队排名,Rank Teams by Votes,1626.3266982141,https://leetcode.cn/problems/rank-teams-by-votes/
-第 178 场周赛,二叉树中的列表,Linked List in Binary Tree,1649.9728054796,https://leetcode.cn/problems/linked-list-in-binary-tree/
+第 178 场周赛,二叉树中的链表,Linked List in Binary Tree,1649.9728054796,https://leetcode.cn/problems/linked-list-in-binary-tree/
 第 178 场周赛,使网格图至少有一条有效路径的最小代价,Minimum Cost to Make at Least One Valid Path in a Grid,2068.806637566,https://leetcode.cn/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 第 177 场周赛,日期之间隔几天,Number of Days Between Two Dates,1421.6541140049,https://leetcode.cn/problems/number-of-days-between-two-dates/
 第 177 场周赛,验证二叉树,Validate Binary Tree Nodes,1464.6895034875,https://leetcode.cn/problems/validate-binary-tree-nodes/
@@ -1079,7 +1091,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 170 场周赛,子数组异或查询,XOR Queries of a Subarray,1459.8208951847,https://leetcode.cn/problems/xor-queries-of-a-subarray/
 第 170 场周赛,获取你好友已观看的视频,Get Watched Videos by Your Friends,1652.5809810428,https://leetcode.cn/problems/get-watched-videos-by-your-friends/
 第 170 场周赛,让字符串成为回文串的最少插入次数,Minimum Insertion Steps to Make a String Palindrome,1786.688543054,https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/
-第 169 场周赛,和为零的N个唯一整数,Find N Unique Integers Sum up to Zero,1167.1331831913,https://leetcode.cn/problems/find-n-unique-integers-sum-up-to-zero/
+第 169 场周赛,和为零的 N 个不同整数,Find N Unique Integers Sum up to Zero,1167.1331831913,https://leetcode.cn/problems/find-n-unique-integers-sum-up-to-zero/
 第 169 场周赛,两棵二叉搜索树中的所有元素,All Elements in Two Binary Search Trees,1260.1755576607,https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/
 第 169 场周赛,跳跃游戏 III,Jump Game III,1396.5448074496,https://leetcode.cn/problems/jump-game-iii/
 第 169 场周赛,口算难题,Verbal Arithmetic Puzzle,2250.0454791316,https://leetcode.cn/problems/verbal-arithmetic-puzzle/
@@ -1174,7 +1186,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 154 场周赛,“气球” 的最大数量,Maximum Number of Balloons,1181.9716216714,https://leetcode.cn/problems/maximum-number-of-balloons/
 第 154 场周赛,反转每对括号间的子串,Reverse Substrings Between Each Pair of Parentheses,1485.6550472186,https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/
 第 154 场周赛,K 次串联后最大子数组之和,K-Concatenation Maximum Sum,1747.6755111029,https://leetcode.cn/problems/k-concatenation-maximum-sum/
-第 154 场周赛,查找集群内的「关键连接」,Critical Connections in a Network,2084.6866916045,https://leetcode.cn/problems/critical-connections-in-a-network/
+第 154 场周赛,查找集群内的关键连接,Critical Connections in a Network,2084.6866916045,https://leetcode.cn/problems/critical-connections-in-a-network/
 第 153 场周赛,公交站间的距离,Distance Between Bus Stops,1234.4144116814,https://leetcode.cn/problems/distance-between-bus-stops/
 第 153 场周赛,一周中的第几天,Day of the Week,1382.4809893713,https://leetcode.cn/problems/day-of-the-week/
 第 153 场周赛,删除一次得到子数组最大和,Maximum Subarray Sum with One Deletion,1799.4635458535,https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/
@@ -1200,7 +1212,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 150 场周赛,地图分析,As Far from Land as Possible,1666.346990979,https://leetcode.cn/problems/as-far-from-land-as-possible/
 第 150 场周赛,按字典序排在最后的子串,Last Substring in Lexicographical Order,1864.0948676111,https://leetcode.cn/problems/last-substring-in-lexicographical-order/
 第 149 场周赛,一年中的第几天,Day of the Year,1199.4427635582,https://leetcode.cn/problems/day-of-the-year/
-第 149 场周赛,掷骰子的N种方法,Number of Dice Rolls With Target Sum,1653.7337081336,https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/
+第 149 场周赛,掷骰子等于目标和的方法数,Number of Dice Rolls With Target Sum,1653.7337081336,https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/
 第 149 场周赛,单字符重复子串的最大长度,Swap For Longest Repeated Character Substring,1787.4514432151,https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/
 第 149 场周赛,子数组中占绝大多数的元素,Online Majority Element In Subarray,2205.4304373587,https://leetcode.cn/problems/online-majority-element-in-subarray/
 第 6 场双周赛,检查一个数是否在数组中占绝大多数,Check If a Number Is Majority Element in a Sorted Array,1249.9947800752,https://leetcode.cn/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
@@ -1218,7 +1230,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 5 场双周赛,最大唯一数,Largest Unique Number,1226.2960135431,https://leetcode.cn/problems/largest-unique-number/
 第 5 场双周赛,阿姆斯特朗数,Armstrong Number,1231.4004525633,https://leetcode.cn/problems/armstrong-number/
 第 5 场双周赛,最低成本联通所有城市,Connecting Cities With Minimum Cost,1752.9555725796,https://leetcode.cn/problems/connecting-cities-with-minimum-cost/
-第 5 场双周赛,平行课程,Parallel Courses,1710.0787625377,https://leetcode.cn/problems/parallel-courses/
+第 5 场双周赛,并行课程,Parallel Courses,1710.0787625377,https://leetcode.cn/problems/parallel-courses/
 第 146 场周赛,等价多米诺骨牌对的数量,Number of Equivalent Domino Pairs,1332.622596763,https://leetcode.cn/problems/number-of-equivalent-domino-pairs/
 第 146 场周赛,颜色交替的最短路径,Shortest Path with Alternating Colors,1779.7534349429,https://leetcode.cn/problems/shortest-path-with-alternating-colors/
 第 146 场周赛,叶值的最小代价生成树,Minimum Cost Tree From Leaf Values,1919.1749818083,https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values/
@@ -1280,11 +1292,11 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 136 场周赛,分隔数组以得到最大和,Partition Array for Maximum Sum,1916.0689858272,https://leetcode.cn/problems/partition-array-for-maximum-sum/
 第 136 场周赛,最长重复子串,Longest Duplicate Substring,2428.7985254341,https://leetcode.cn/problems/longest-duplicate-substring/
 第 135 场周赛,有效的回旋镖,Valid Boomerang,1255.9002796024,https://leetcode.cn/problems/valid-boomerang/
-第 135 场周赛,把二叉搜索树转换为累加树,Binary Search Tree to Greater Sum Tree,1374.6755455786,https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/
+第 135 场周赛,从二叉搜索树到更大和树,Binary Search Tree to Greater Sum Tree,1374.6755455786,https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/
 第 135 场周赛,多边形三角剖分的最低得分,Minimum Score Triangulation of Polygon,2130.1135718486,https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/
 第 135 场周赛,移动石子直到连续 II,Moving Stones Until Consecutive II,2455.8244137907,https://leetcode.cn/problems/moving-stones-until-consecutive-ii/
 第 134 场周赛,移动石子直到连续,Moving Stones Until Consecutive,1421.2624065513,https://leetcode.cn/problems/moving-stones-until-consecutive/
-第 134 场周赛,边框着色,Coloring A Border,1578.8503818621,https://leetcode.cn/problems/coloring-a-border/
+第 134 场周赛,边界着色,Coloring A Border,1578.8503818621,https://leetcode.cn/problems/coloring-a-border/
 第 134 场周赛,不相交的线,Uncrossed Lines,1805.5947071171,https://leetcode.cn/problems/uncrossed-lines/
 第 134 场周赛,逃离大迷宫,Escape a Large Maze,2164.8287157213,https://leetcode.cn/problems/escape-a-large-maze/
 第 133 场周赛,两地调度,Two City Scheduling,1348.0079390256,https://leetcode.cn/problems/two-city-scheduling/
@@ -1315,7 +1327,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 127 场周赛,笨阶乘,Clumsy Factorial,1407.9870845299,https://leetcode.cn/problems/clumsy-factorial/
 第 127 场周赛,行相等的最少多米诺旋转,Minimum Domino Rotations For Equal Row,1541.348438509,https://leetcode.cn/problems/minimum-domino-rotations-for-equal-row/
 第 127 场周赛,前序遍历构造二叉搜索树,Construct Binary Search Tree from Preorder Traversal,1562.9802666517,https://leetcode.cn/problems/construct-binary-search-tree-from-preorder-traversal/
-第 126 场周赛,查找常用字符,Find Common Characters,1279.7669712099,https://leetcode.cn/problems/find-common-characters/
+第 126 场周赛,查找共用字符,Find Common Characters,1279.7669712099,https://leetcode.cn/problems/find-common-characters/
 第 126 场周赛,检查替换后的词是否有效,Check If Word Is Valid After Substitutions,1426.7144554733,https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/
 第 126 场周赛,最大连续1的个数 III,Max Consecutive Ones III,1655.6433885989,https://leetcode.cn/problems/max-consecutive-ones-iii/
 第 126 场周赛,合并石头的最低成本,Minimum Cost to Merge Stones,2422.5309771173,https://leetcode.cn/problems/minimum-cost-to-merge-stones/
@@ -1355,7 +1367,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 117 场周赛,连续差相同的数字,Numbers With Same Consecutive Differences,1432.9593207076,https://leetcode.cn/problems/numbers-with-same-consecutive-differences/
 第 117 场周赛,元音拼写检查器,Vowel Spellchecker,1795.0422250815,https://leetcode.cn/problems/vowel-spellchecker/
 第 117 场周赛,监控二叉树,Binary Tree Cameras,2124.1329592058,https://leetcode.cn/problems/binary-tree-cameras/
-第 116 场周赛,重复 N 次的元素,N-Repeated Element in Size 2N Array,1161.6227767245,https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/
+第 116 场周赛,在长度 2N 的数组中找出重复 N 次的元素,N-Repeated Element in Size 2N Array,1161.6227767245,https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/
 第 116 场周赛,最大宽度坡,Maximum Width Ramp,1607.80608595,https://leetcode.cn/problems/maximum-width-ramp/
 第 116 场周赛,最小面积矩形 II,Minimum Area Rectangle II,1990.7738526153,https://leetcode.cn/problems/minimum-area-rectangle-ii/
 第 116 场周赛,表示数字的最少运算符,Least Operators to Express Number,2594.135673452,https://leetcode.cn/problems/least-operators-to-express-number/
@@ -1420,14 +1432,14 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 101 场周赛,最大为 N 的数字组合,Numbers At Most N Given Digit Set,1989.5369509422,https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/
 第 101 场周赛,DI 序列的有效排列,Valid Permutations for DI Sequence,2433.3767704629,https://leetcode.cn/problems/valid-permutations-for-di-sequence/
 第 100 场周赛,单调数列,Monotonic Array,1258.6719675401,https://leetcode.cn/problems/monotonic-array/
-第 100 场周赛,递增顺序查找树,Increasing Order Search Tree,1473.2523136772,https://leetcode.cn/problems/increasing-order-search-tree/
+第 100 场周赛,递增顺序搜索树,Increasing Order Search Tree,1473.2523136772,https://leetcode.cn/problems/increasing-order-search-tree/
 第 100 场周赛,子数组按位或操作,Bitwise ORs of Subarrays,2133.1003195919,https://leetcode.cn/problems/bitwise-ors-of-subarrays/
 第 100 场周赛,有序队列,Orderly Queue,2096.6098086765,https://leetcode.cn/problems/orderly-queue/
 第 99 场周赛,三维形体的表面积,Surface Area of 3D Shapes,1507.8701119064,https://leetcode.cn/problems/surface-area-of-3d-shapes/
 第 99 场周赛,特殊等价字符串组,Groups of Special-Equivalent Strings,1590.0883962313,https://leetcode.cn/problems/groups-of-special-equivalent-strings/
-第 99 场周赛,所有可能的满二叉树,All Possible Full Binary Trees,1784.2539813582,https://leetcode.cn/problems/all-possible-full-binary-trees/
+第 99 场周赛,所有可能的真二叉树,All Possible Full Binary Trees,1784.2539813582,https://leetcode.cn/problems/all-possible-full-binary-trees/
 第 99 场周赛,最大频率栈,Maximum Frequency Stack,2027.8772739639,https://leetcode.cn/problems/maximum-frequency-stack/
-第 98 场周赛,公平的糖果棒交换,Fair Candy Swap,1334.0564009231,https://leetcode.cn/problems/fair-candy-swap/
+第 98 场周赛,公平的糖果交换,Fair Candy Swap,1334.0564009231,https://leetcode.cn/problems/fair-candy-swap/
 第 98 场周赛,查找和替换模式,Find and Replace Pattern,1414.4918812526,https://leetcode.cn/problems/find-and-replace-pattern/
 第 98 场周赛,根据前序和后序遍历构造二叉树,Construct Binary Tree from Preorder and Postorder Traversal,1731.5555445321,https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 第 98 场周赛,子序列宽度之和,Sum of Subsequence Widths,2182.6180030785,https://leetcode.cn/problems/sum-of-subsequence-widths/
@@ -1438,7 +1450,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 96 场周赛,三维形体投影面积,Projection Area of 3D Shapes,1425.3981616639,https://leetcode.cn/problems/projection-area-of-3d-shapes/
 第 96 场周赛,救生艇,Boats to Save People,1529.7617243868,https://leetcode.cn/problems/boats-to-save-people/
 第 96 场周赛,索引处的解码字符串,Decoded String at Index,2010.5524756946,https://leetcode.cn/problems/decoded-string-at-index/
-第 96 场周赛,细分图中的可到达结点,Reachable Nodes In Subdivided Graph,2328.4294689238,https://leetcode.cn/problems/reachable-nodes-in-subdivided-graph/
+第 96 场周赛,细分图中的可到达节点,Reachable Nodes In Subdivided Graph,2328.4294689238,https://leetcode.cn/problems/reachable-nodes-in-subdivided-graph/
 第 95 场周赛,链表的中间结点,Middle of the Linked List,1231.6157956848,https://leetcode.cn/problems/middle-of-the-linked-list/
 第 95 场周赛,石子游戏,Stone Game,1590.0463215721,https://leetcode.cn/problems/stone-game/
 第 95 场周赛,第 N 个神奇数字,Nth Magical Number,1896.7975214446,https://leetcode.cn/problems/nth-magical-number/
@@ -1481,7 +1493,7 @@ AutoX 安途智行专场竞赛,蚂蚁爬行,蚂蚁爬行,-1,https://leetcode.cn/
 第 86 场周赛,猜猜这个单词,Guess the Word,2077.5054883516,https://leetcode.cn/problems/guess-the-word/
 第 85 场周赛,矩形重叠,Rectangle Overlap,1442.9468304752,https://leetcode.cn/problems/rectangle-overlap/
 第 85 场周赛,推多米诺,Push Dominoes,1638.1281256708,https://leetcode.cn/problems/push-dominoes/
-第 85 场周赛,新21点,New 21 Game,2350.0380300939,https://leetcode.cn/problems/new-21-game/
+第 85 场周赛,新 21 点,New 21 Game,2350.0380300939,https://leetcode.cn/problems/new-21-game/
 第 85 场周赛,相似字符串组,Similar String Groups,2053.7468090497,https://leetcode.cn/problems/similar-string-groups/
 第 84 场周赛,翻转图像,Flipping an Image,1243.1009943284,https://leetcode.cn/problems/flipping-an-image/
 第 84 场周赛,字符串中的查找与替换,Find And Replace in String,1460.9610936441,https://leetcode.cn/problems/find-and-replace-in-string/

@@ -56,7 +56,7 @@ while True:
     for contest in contest_list:
         title_slug = contest["titleSlug"]
         title = contest["title"]
-        link = f"https://leetcode.cn/contest/api/ranking/api/ranking/{title_slug}"
+        link = f"https://leetcode.cn/contest/api/info/{title_slug}"
         contests.append({"title": title, "link": link})
 
     if len(contests) >= total_num:

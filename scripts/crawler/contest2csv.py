@@ -31,6 +31,9 @@ try:
 # File does not exist, or cannot be converted to int
 except (FileNotFoundError, ValueError):
     last_saved_index = 0
+    # delete the old csv file
+    if os.path.exists("./weekly_contests.csv"):
+        os.remove("./weekly_contests.csv")
 
 # Open a new CSV file with append mode
 with open("./weekly_contests.csv", "a", newline='', encoding="utf-8") as csvfile:
