@@ -23,7 +23,6 @@
 - [ ] [2602. 使数组元素全部相等的最少操作次数](https://github.com/winterggg/github-issues-leetcode/issues/82)
 - [ ] [2601. 质数减法运算](https://github.com/winterggg/github-issues-leetcode/issues/81)
 - [ ] [2608. 图中的最短环](https://github.com/winterggg/github-issues-leetcode/issues/80)
-- [ ] [2607. 使子数组元素和相等](https://github.com/winterggg/github-issues-leetcode/issues/79)
 
 ## 资料
 
