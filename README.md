@@ -10,12 +10,13 @@
 
 |          | 05.08 | 05.09 | 05.10 | 05.11 | 05.12 | 05.13 | 05.14 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 1 | 1 | 1 | - | - | - | - |
+| 刷题量 | 1 | 1 | 1 | 1 | - | - | - |
 | 复习量 | - | - | - | - | - | - | - |
-| **本周刷题** | 3 道 | **本周复习** | 0 道 | **连续打卡** | 28 天 | **历史刷题** | 85 道 |
+| **本周刷题** | 4 道 | **本周复习** | 0 道 | **连续打卡** | 29 天 | **历史刷题** | 86 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2588. 统计美丽子数组数目](https://github.com/winterggg/github-issues-leetcode/issues/87)
 - [ ] [2594. 修车的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/86)
 - [ ] [2598. 执行操作后的最大 MEX](https://github.com/winterggg/github-issues-leetcode/issues/85)
 - [ ] [2597. 美丽子集的数目](https://github.com/winterggg/github-issues-leetcode/issues/84)
