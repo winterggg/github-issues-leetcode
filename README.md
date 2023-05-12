@@ -23,7 +23,6 @@
 - [ ] [2597. 美丽子集的数目](https://github.com/winterggg/github-issues-leetcode/issues/84)
 - [ ] [2603. 收集树中金币](https://github.com/winterggg/github-issues-leetcode/issues/83)
 - [ ] [2602. 使数组元素全部相等的最少操作次数](https://github.com/winterggg/github-issues-leetcode/issues/82)
-- [ ] [2601. 质数减法运算](https://github.com/winterggg/github-issues-leetcode/issues/81)
 
 ## 资料
 
