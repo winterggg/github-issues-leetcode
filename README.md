@@ -10,12 +10,13 @@
 
 |          | 05.08 | 05.09 | 05.10 | 05.11 | 05.12 | 05.13 | 05.14 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 1 | 1 | 1 | 1 | 1 | - | - |
+| 刷题量 | 1 | 1 | 1 | 1 | 1 | 1 | - |
 | 复习量 | - | - | - | - | - | - | - |
-| **本周刷题** | 5 道 | **本周复习** | 0 道 | **连续打卡** | 30 天 | **历史刷题** | 87 道 |
+| **本周刷题** | 6 道 | **本周复习** | 0 道 | **连续打卡** | 31 天 | **历史刷题** | 88 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2584. 分割数组使乘积互质](https://github.com/winterggg/github-issues-leetcode/issues/89)
 - [ ] [2589. 完成所有任务的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/88)
 - [ ] [2588. 统计美丽子数组数目](https://github.com/winterggg/github-issues-leetcode/issues/87)
 - [ ] [2594. 修车的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/86)
