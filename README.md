@@ -22,7 +22,6 @@
 - [ ] [2588. 统计美丽子数组数目](https://github.com/winterggg/github-issues-leetcode/issues/87)
 - [ ] [2594. 修车的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/86)
 - [ ] [2598. 执行操作后的最大 MEX](https://github.com/winterggg/github-issues-leetcode/issues/85)
-- [ ] [2597. 美丽子集的数目](https://github.com/winterggg/github-issues-leetcode/issues/84)
 
 ## 资料
 
