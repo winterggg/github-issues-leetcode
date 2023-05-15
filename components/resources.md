@@ -1,5 +1,6 @@
 - LeetCode 周赛预估难度分：[leetcode_problem_rating](https://zerotrac.github.io/leetcode_problem_rating)
 - 周赛、基础知识视频讲解：[灵茶山艾府的个人空间_bilibili](https://space.bilibili.com/206214/channel/series)
-- [Codetop 高频题清单](./CodeTop题库.csv)
+- [981377660LMT/algorithm-study](https://github.com/981377660LMT/algorithm-study)
 - [周赛题清单](./scripts/crawler/weekly_contests_with_rating.csv)
 - 面试题清单
+- [Codetop 高频题清单](./CodeTop题库.csv)
