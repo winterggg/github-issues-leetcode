@@ -22,7 +22,6 @@
 - [ ] [2584. 分割数组使乘积互质](https://github.com/winterggg/github-issues-leetcode/issues/89)
 - [ ] [2589. 完成所有任务的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/88)
 - [ ] [2588. 统计美丽子数组数目](https://github.com/winterggg/github-issues-leetcode/issues/87)
-- [ ] [2594. 修车的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/86)
 
 ## 资料
 
