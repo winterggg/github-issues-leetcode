@@ -1,12 +1,12 @@
 contest,title,english_title,rating,url
-第 344 场周赛,找出不同元素数目差数组,Find the Distinct Difference Array,-1,https://leetcode.cn/problems/find-the-distinct-difference-array/
-第 344 场周赛,频率跟踪器,Frequency Tracker,-1,https://leetcode.cn/problems/frequency-tracker/
-第 344 场周赛,有相同颜色的相邻元素数目,Number of Adjacent Elements With the Same Color,-1,https://leetcode.cn/problems/number-of-adjacent-elements-with-the-same-color/
-第 344 场周赛,使二叉树所有路径值相等的最小代价,Make Costs of Paths Equal in a Binary Tree,-1,https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/
-第 343 场周赛,保龄球游戏的获胜者,Determine the Winner of a Bowling Game,-1,https://leetcode.cn/problems/determine-the-winner-of-a-bowling-game/
-第 343 场周赛,找出叠涂元素,First Completely Painted Row or Column,-1,https://leetcode.cn/problems/first-completely-painted-row-or-column/
-第 343 场周赛,前往目标的最小代价,Minimum Cost of a Path With Special Roads,-1,https://leetcode.cn/problems/minimum-cost-of-a-path-with-special-roads/
-第 343 场周赛,字典序最小的美丽字符串,Lexicographically Smallest Beautiful String,-1,https://leetcode.cn/problems/lexicographically-smallest-beautiful-string/
+第 344 场周赛,找出不同元素数目差数组,Find the Distinct Difference Array,1266.5231114343,https://leetcode.cn/problems/find-the-distinct-difference-array/
+第 344 场周赛,频率跟踪器,Frequency Tracker,1509.6237874441,https://leetcode.cn/problems/frequency-tracker/
+第 344 场周赛,有相同颜色的相邻元素数目,Number of Adjacent Elements With the Same Color,1705.2545641354,https://leetcode.cn/problems/number-of-adjacent-elements-with-the-same-color/
+第 344 场周赛,使二叉树所有路径值相等的最小代价,Make Costs of Paths Equal in a Binary Tree,1917.1049672432,https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/
+第 343 场周赛,保龄球游戏的获胜者,Determine the Winner of a Bowling Game,1324.1714505166,https://leetcode.cn/problems/determine-the-winner-of-a-bowling-game/
+第 343 场周赛,找出叠涂元素,First Completely Painted Row or Column,1502.6623568929,https://leetcode.cn/problems/first-completely-painted-row-or-column/
+第 343 场周赛,前往目标的最小代价,Minimum Cost of a Path With Special Roads,2153.8943791656,https://leetcode.cn/problems/minimum-cost-of-a-path-with-special-roads/
+第 343 场周赛,字典序最小的美丽字符串,Lexicographically Smallest Beautiful String,2415.7434855724,https://leetcode.cn/problems/lexicographically-smallest-beautiful-string/
 第 103 场双周赛,K 个元素的最大和,Maximum Sum With Exactly K Elements ,1213.4070467355,https://leetcode.cn/problems/maximum-sum-with-exactly-k-elements/
 第 103 场双周赛,找到两个数组的前缀公共数组,Find the Prefix Common Array of Two Arrays,1304.1180812515,https://leetcode.cn/problems/find-the-prefix-common-array-of-two-arrays/
 第 103 场双周赛,网格图中鱼的最大数目,Maximum Number of Fish in a Grid,1489.7210915287,https://leetcode.cn/problems/maximum-number-of-fish-in-a-grid/
