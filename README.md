@@ -10,12 +10,13 @@
 
 |          | 05.15 | 05.16 | 05.17 | 05.18 | 05.19 | 05.20 | 05.21 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 1 | 1 | 1 | - | - | - | - |
+| 刷题量 | 1 | 1 | 1 | 1 | - | - | - |
 | 复习量 | - | - | - | - | - | - | - |
-| **本周刷题** | 3 道 | **本周复习** | 0 道 | **连续打卡** | 35 天 | **历史刷题** | 92 道 |
+| **本周刷题** | 4 道 | **本周复习** | 0 道 | **连续打卡** | 36 天 | **历史刷题** | 93 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2577. 在网格图中访问一个格子的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/94)
 - [ ] [2576. 求出最多标记下标](https://github.com/winterggg/github-issues-leetcode/issues/93)
 - [ ] [2581. 统计可能的树根数目](https://github.com/winterggg/github-issues-leetcode/issues/92)
 - [ ] [2585. 获得分数的方法数](https://github.com/winterggg/github-issues-leetcode/issues/90)
