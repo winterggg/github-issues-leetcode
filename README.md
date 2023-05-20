@@ -22,7 +22,6 @@
 - [ ] [2576. 求出最多标记下标](https://github.com/winterggg/github-issues-leetcode/issues/93)
 - [ ] [2581. 统计可能的树根数目](https://github.com/winterggg/github-issues-leetcode/issues/92)
 - [ ] [2585. 获得分数的方法数](https://github.com/winterggg/github-issues-leetcode/issues/90)
-- [ ] [2584. 分割数组使乘积互质](https://github.com/winterggg/github-issues-leetcode/issues/89)
 
 ## 资料
 
