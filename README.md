@@ -10,12 +10,13 @@
 
 |          | 05.15 | 05.16 | 05.17 | 05.18 | 05.19 | 05.20 | 05.21 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 1 | 1 | 1 | 1 | 1 | 1 | - |
+| 刷题量 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | 复习量 | - | - | - | - | - | - | - |
-| **本周刷题** | 6 道 | **本周复习** | 0 道 | **连续打卡** | 38 天 | **历史刷题** | 95 道 |
+| **本周刷题** | 7 道 | **本周复习** | 0 道 | **连续打卡** | 39 天 | **历史刷题** | 96 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [382. 链表随机节点](https://github.com/winterggg/github-issues-leetcode/issues/97)
 - [ ] [2572. 无平方子集计数](https://github.com/winterggg/github-issues-leetcode/issues/96)
 - [ ] [2571. 将整数减少到零需要的最少操作数](https://github.com/winterggg/github-issues-leetcode/issues/95)
 - [ ] [2577. 在网格图中访问一个格子的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/94)
