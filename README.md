@@ -22,7 +22,6 @@
 - [ ] [2571. 将整数减少到零需要的最少操作数](https://github.com/winterggg/github-issues-leetcode/issues/95)
 - [ ] [2577. 在网格图中访问一个格子的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/94)
 - [ ] [2576. 求出最多标记下标](https://github.com/winterggg/github-issues-leetcode/issues/93)
-- [ ] [2581. 统计可能的树根数目](https://github.com/winterggg/github-issues-leetcode/issues/92)
 
 ## 资料
 
