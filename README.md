@@ -10,12 +10,13 @@
 
 |          | 05.22 | 05.23 | 05.24 | 05.25 | 05.26 | 05.27 | 05.28 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 1 | 1 | - | - | - | - | - |
+| 刷题量 | 1 | 1 | 1 | - | - | - | - |
 | 复习量 | - | - | - | - | - | - | - |
-| **本周刷题** | 2 道 | **本周复习** | 0 道 | **连续打卡** | 41 天 | **历史刷题** | 98 道 |
+| **本周刷题** | 3 道 | **本周复习** | 0 道 | **连续打卡** | 42 天 | **历史刷题** | 99 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [208. 实现 Trie (前缀树)](https://github.com/winterggg/github-issues-leetcode/issues/100)
 - [ ] [2568. 最小无法得到的或值](https://github.com/winterggg/github-issues-leetcode/issues/99)
 - [ ] [382. 链表随机节点](https://github.com/winterggg/github-issues-leetcode/issues/97)
 - [ ] [2572. 无平方子集计数](https://github.com/winterggg/github-issues-leetcode/issues/96)
