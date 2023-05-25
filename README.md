@@ -22,7 +22,6 @@
 - [ ] [382. 链表随机节点](https://github.com/winterggg/github-issues-leetcode/issues/97)
 - [ ] [2572. 无平方子集计数](https://github.com/winterggg/github-issues-leetcode/issues/96)
 - [ ] [2571. 将整数减少到零需要的最少操作数](https://github.com/winterggg/github-issues-leetcode/issues/95)
-- [ ] [2577. 在网格图中访问一个格子的最少时间](https://github.com/winterggg/github-issues-leetcode/issues/94)
 
 ## 资料
 
