@@ -21,7 +21,6 @@
 - [ ] [208. 实现 Trie (前缀树)](https://github.com/winterggg/github-issues-leetcode/issues/100)
 - [ ] [2568. 最小无法得到的或值](https://github.com/winterggg/github-issues-leetcode/issues/99)
 - [ ] [382. 链表随机节点](https://github.com/winterggg/github-issues-leetcode/issues/97)
-- [ ] [2572. 无平方子集计数](https://github.com/winterggg/github-issues-leetcode/issues/96)
 
 ## 资料
 
