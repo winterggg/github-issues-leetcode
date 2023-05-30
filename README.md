@@ -21,7 +21,6 @@
 - [ ] [2564. 子字符串异或查询](https://github.com/winterggg/github-issues-leetcode/issues/103)
 - [ ] [2569. 更新数组后处理求和查询](https://github.com/winterggg/github-issues-leetcode/issues/101)
 - [ ] [208. 实现 Trie (前缀树)](https://github.com/winterggg/github-issues-leetcode/issues/100)
-- [ ] [2568. 最小无法得到的或值](https://github.com/winterggg/github-issues-leetcode/issues/99)
 
 ## 资料
 
