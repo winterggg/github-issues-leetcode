@@ -10,12 +10,13 @@
 
 |          | 05.29 | 05.30 | 05.31 | 06.01 | 06.02 | 06.03 | 06.04 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 1 | - | - | - | - | - | - |
+| 刷题量 | 1 | 1 | - | - | - | - | - |
 | 复习量 | - | - | - | - | - | - | - |
-| **本周刷题** | 1 道 | **本周复习** | 0 道 | **连续打卡** | 47 天 | **历史刷题** | 104 道 |
+| **本周刷题** | 2 道 | **本周复习** | 0 道 | **连续打卡** | 48 天 | **历史刷题** | 105 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2673. 使二叉树所有路径值相等的最小代价](https://github.com/winterggg/github-issues-leetcode/issues/106)
 - [ ] [2565. 最少得分子序列](https://github.com/winterggg/github-issues-leetcode/issues/104)
 - [ ] [2564. 子字符串异或查询](https://github.com/winterggg/github-issues-leetcode/issues/103)
 - [ ] [2569. 更新数组后处理求和查询](https://github.com/winterggg/github-issues-leetcode/issues/101)
