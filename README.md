@@ -21,7 +21,6 @@
 - [ ] [2565. 最少得分子序列](https://github.com/winterggg/github-issues-leetcode/issues/104)
 - [ ] [2564. 子字符串异或查询](https://github.com/winterggg/github-issues-leetcode/issues/103)
 - [ ] [2569. 更新数组后处理求和查询](https://github.com/winterggg/github-issues-leetcode/issues/101)
-- [ ] [208. 实现 Trie (前缀树)](https://github.com/winterggg/github-issues-leetcode/issues/100)
 
 ## 资料
 
