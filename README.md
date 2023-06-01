@@ -10,12 +10,13 @@
 
 |          | 05.29 | 05.30 | 05.31 | 06.01 | 06.02 | 06.03 | 06.04 |
 | :--------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 刷题量 | 1 | 1 | 1 | - | - | - | - |
+| 刷题量 | 1 | 1 | 1 | 1 | - | - | - |
 | 复习量 | - | - | - | - | - | - | - |
-| **本周刷题** | 3 道 | **本周复习** | 0 道 | **连续打卡** | 49 天 | **历史刷题** | 106 道 |
+| **本周刷题** | 4 道 | **本周复习** | 0 道 | **连续打卡** | 50 天 | **历史刷题** | 107 道 |
 
 ## 近一周星标（复习清单）
 
+- [ ] [2561. 重排水果](https://github.com/winterggg/github-issues-leetcode/issues/108)
 - [ ] [2560. 打家劫舍 IV](https://github.com/winterggg/github-issues-leetcode/issues/107)
 - [ ] [2673. 使二叉树所有路径值相等的最小代价](https://github.com/winterggg/github-issues-leetcode/issues/106)
 - [ ] [2565. 最少得分子序列](https://github.com/winterggg/github-issues-leetcode/issues/104)
