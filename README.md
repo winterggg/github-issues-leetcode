@@ -21,7 +21,6 @@
 - [ ] [2673. 使二叉树所有路径值相等的最小代价](https://github.com/winterggg/github-issues-leetcode/issues/106)
 - [ ] [2565. 最少得分子序列](https://github.com/winterggg/github-issues-leetcode/issues/104)
 - [ ] [2564. 子字符串异或查询](https://github.com/winterggg/github-issues-leetcode/issues/103)
-- [ ] [2569. 更新数组后处理求和查询](https://github.com/winterggg/github-issues-leetcode/issues/101)
 
 ## 资料
 
