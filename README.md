@@ -18,7 +18,6 @@
 
 - [ ] [191. 位1的个数](https://github.com/winterggg/github-issues-leetcode/issues/109)
 - [ ] [2561. 重排水果](https://github.com/winterggg/github-issues-leetcode/issues/108)
-- [ ] [2560. 打家劫舍 IV](https://github.com/winterggg/github-issues-leetcode/issues/107)
 
 ## 资料
 
