@@ -17,7 +17,6 @@
 ## 近一周星标（复习清单）
 
 - [ ] [191. 位1的个数](https://github.com/winterggg/github-issues-leetcode/issues/109)
-- [ ] [2561. 重排水果](https://github.com/winterggg/github-issues-leetcode/issues/108)
 
 ## 资料
 
