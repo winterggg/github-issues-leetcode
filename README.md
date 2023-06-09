@@ -16,7 +16,7 @@
 
 ## 近一周星标（复习清单）
 
-- [ ] [191. 位1的个数](https://github.com/winterggg/github-issues-leetcode/issues/109)
+No liked issues in the past week.
 
 ## 资料
 
